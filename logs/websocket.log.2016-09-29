@@ -1,0 +1,488 @@
+[2016-09-29 05:50:51,059] INFO msg ip: 127.0.0.1, port: 59635
+[2016-09-29 05:56:07,928] INFO msg ip: 127.0.0.1, port: 60850
+[2016-09-29 05:57:01,096] INFO msg ip: 127.0.0.1, port: 32824
+[2016-09-29 05:57:13,703] INFO msg ip: 127.0.0.1, port: 32872
+[2016-09-29 05:57:39,421] INFO msg ip: 127.0.0.1, port: 32967
+[2016-09-29 05:57:58,735] INFO msg ip: 127.0.0.1, port: 33040
+[2016-09-29 06:01:49,444] INFO msg ip: 127.0.0.1, port: 33931
+[2016-09-29 06:05:13,898] INFO msg ip: 127.0.0.1, port: 34702
+[2016-09-29 06:05:37,539] INFO msg ip: 127.0.0.1, port: 34790
+[2016-09-29 06:06:58,012] INFO msg ip: 127.0.0.1, port: 35111
+[2016-09-29 06:07:29,592] INFO msg ip: 127.0.0.1, port: 35237
+[2016-09-29 06:08:20,347] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 06:08:26,893] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 06:09:34,837] INFO msg ip: 127.0.0.1, port: 35778
+[2016-09-29 06:09:34,852] INFO msg: <channels.message.Message object at 0x7f475bbe2690>
+[2016-09-29 06:09:36,638] INFO msg ip: 127.0.0.1, port: 35787
+[2016-09-29 06:09:38,986] INFO msg: <channels.message.Message object at 0x7f475bbe2850>
+[2016-09-29 06:13:49,319] INFO msg ip: 127.0.0.1, port: 36708
+[2016-09-29 06:13:49,491] INFO msg: <channels.message.Message object at 0x7f475bbe2690>
+[2016-09-29 06:14:08,342] INFO msg ip: 127.0.0.1, port: 36780
+[2016-09-29 06:14:08,421] INFO msg: <channels.message.Message object at 0x7f475bbe27d0>
+[2016-09-29 06:15:14,149] INFO msg ip: 127.0.0.1, port: 37037
+[2016-09-29 06:15:14,227] INFO msg: <channels.message.Message object at 0x7f475bbe25d0>
+[2016-09-29 06:15:32,741] INFO msg ip: 127.0.0.1, port: 37109
+[2016-09-29 06:15:33,003] INFO msg: <channels.message.Message object at 0x7f475bbe2850>
+[2016-09-29 06:15:53,155] INFO msg ip: 127.0.0.1, port: 37186
+[2016-09-29 06:15:53,162] INFO msg: <channels.message.Message object at 0x7f475bbe2650>
+[2016-09-29 06:17:15,515] INFO msg ip: 127.0.0.1, port: 37474
+[2016-09-29 06:17:15,520] INFO msg: <channels.message.Message object at 0x7f475bbe2850>
+[2016-09-29 06:21:14,524] INFO msg ip: 127.0.0.1, port: 38394
+[2016-09-29 06:21:22,699] INFO msg ip: 127.0.0.1, port: 38424
+[2016-09-29 06:21:22,779] INFO msg: <channels.message.Message object at 0x7f475bbe2850>
+[2016-09-29 06:22:46,864] INFO msg ip: 127.0.0.1, port: 38754
+[2016-09-29 06:22:46,872] INFO msg: <channels.message.Message object at 0x7f475bbe2750>
+[2016-09-29 06:23:12,455] INFO msg ip: 127.0.0.1, port: 38851
+[2016-09-29 06:23:12,463] INFO msg: <channels.message.Message object at 0x7f475bbe25d0>
+[2016-09-29 06:24:32,652] INFO msg ip: 127.0.0.1, port: 39149
+[2016-09-29 06:24:48,935] INFO msg ip: 127.0.0.1, port: 39212
+[2016-09-29 06:24:48,943] INFO msg: <channels.message.Message object at 0x7f475bbe27d0>
+[2016-09-29 06:25:10,450] INFO msg ip: 127.0.0.1, port: 39299
+[2016-09-29 06:26:08,071] INFO msg ip: 127.0.0.1, port: 39514
+[2016-09-29 06:26:31,906] INFO msg ip: 127.0.0.1, port: 39606
+[2016-09-29 06:26:35,562] INFO msg: <channels.message.Message object at 0x7f475bbe27d0>
+[2016-09-29 06:26:57,873] INFO msg ip: 127.0.0.1, port: 39731
+[2016-09-29 06:26:58,542] INFO msg: <channels.message.Message object at 0x7f475bbe2510>
+[2016-09-29 06:27:09,193] INFO msg: <channels.message.Message object at 0x7f475bbe2790>
+[2016-09-29 06:27:14,335] INFO msg ip: 127.0.0.1, port: 39791
+[2016-09-29 06:27:14,344] INFO msg: <channels.message.Message object at 0x7f475bbe2510>
+[2016-09-29 06:27:21,201] INFO msg: <channels.message.Message object at 0x7f475bbe2650>
+[2016-09-29 06:27:28,654] INFO msg ip: 127.0.0.1, port: 39846
+[2016-09-29 06:27:55,308] INFO msg: <channels.message.Message object at 0x7f475bbe28d0>
+[2016-09-29 06:28:26,771] INFO msg ip: 127.0.0.1, port: 40051
+[2016-09-29 06:29:48,327] INFO msg ip: 127.0.0.1, port: 40351
+[2016-09-29 06:30:35,081] INFO msg ip: 127.0.0.1, port: 40533
+[2016-09-29 06:30:35,503] INFO msg: <channels.message.Message object at 0x7f475bbe28d0>
+[2016-09-29 06:38:50,175] INFO msg ip: 127.0.0.1, port: 42351
+[2016-09-29 06:38:50,182] INFO msg: <channels.message.Message object at 0x7f475bbe2810>
+[2016-09-29 06:39:53,860] INFO msg ip: 127.0.0.1, port: 42586
+[2016-09-29 06:39:53,869] INFO msg: <channels.message.Message object at 0x7f475bbe2590>
+[2016-09-29 06:42:23,191] INFO msg ip: 127.0.0.1, port: 43133
+[2016-09-29 06:42:23,196] INFO msg: <channels.message.Message object at 0x7f475bbe2790>
+[2016-09-29 06:55:43,539] INFO msg ip: 127.0.0.1, port: 46074
+[2016-09-29 06:55:43,547] INFO msg: <channels.message.Message object at 0x7f475bbe2690>
+[2016-09-29 06:56:50,178] INFO msg ip: 127.0.0.1, port: 46316
+[2016-09-29 06:56:50,353] INFO msg: <channels.message.Message object at 0x7f475bbe2790>
+[2016-09-29 06:57:10,062] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 06:57:14,625] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 06:58:12,345] INFO msg ip: 127.0.0.1, port: 46642
+[2016-09-29 06:58:34,342] INFO msg: hi
+[2016-09-29 06:58:45,866] INFO msg ip: 127.0.0.1, port: 46764
+[2016-09-29 06:58:46,434] INFO msg: sample
+[2016-09-29 06:59:15,455] INFO msg ip: 127.0.0.1, port: 46872
+[2016-09-29 06:59:15,463] INFO msg: sample
+[2016-09-29 07:00:56,273] INFO msg ip: 127.0.0.1, port: 47210
+[2016-09-29 07:00:56,356] INFO msg: sample
+[2016-09-29 07:01:17,367] INFO msg ip: 127.0.0.1, port: 47280
+[2016-09-29 07:01:17,375] INFO msg: sample
+[2016-09-29 07:02:59,332] INFO msg ip: 127.0.0.1, port: 47654
+[2016-09-29 07:02:59,738] INFO msg: sample
+[2016-09-29 07:03:29,011] INFO msg ip: 127.0.0.1, port: 47762
+[2016-09-29 07:03:29,021] INFO msg: sample
+[2016-09-29 07:18:49,961] INFO msg ip: 127.0.0.1, port: 51050
+[2016-09-29 07:20:38,952] INFO msg ip: 127.0.0.1, port: 51442
+[2016-09-29 07:21:06,328] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 07:21:12,847] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 07:21:37,259] INFO msg ip: 127.0.0.1, port: 51665 ,channel:websocket.send!ylQypfUWgWpv
+[2016-09-29 07:21:37,459] INFO msg ip: 127.0.0.1, port: 51667 ,channel:websocket.send!fUafagflTlbv
+[2016-09-29 07:21:37,486] INFO msg: sample
+[2016-09-29 07:21:54,107] INFO msg ip: 127.0.0.1, port: 51727 ,channel:websocket.send!PvIjDXRCzwoP
+[2016-09-29 07:21:54,113] INFO msg: sample
+[2016-09-29 07:39:40,843] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 07:39:43,213] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 07:40:42,119] INFO msg ip: 127.0.0.1, port: 56239 ,channel:websocket.send!RPEJepJFYevL
+[2016-09-29 07:40:55,075] INFO msg ip: 127.0.0.1, port: 56288 ,channel:websocket.send!xyYGVuuzIjZy
+[2016-09-29 07:41:11,430] INFO msg ip: 127.0.0.1, port: 56348 ,channel:websocket.send!vBMsXgpBtLJq
+[2016-09-29 07:41:57,315] INFO msg ip: 127.0.0.1, port: 56521 ,channel:websocket.send!oeUtkZXMBkie
+[2016-09-29 07:42:53,506] INFO msg ip: 127.0.0.1, port: 56731 ,channel:websocket.send!xlvowBeQTjgU
+[2016-09-29 07:49:41,999] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 07:49:43,227] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 07:49:47,069] INFO msg ip: 127.0.0.1, port: 58497 ,channel:websocket.send!SGYJUrxHDSlm
+[2016-09-29 07:51:06,315] INFO msg ip: 127.0.0.1, port: 58797 ,channel:websocket.send!bfdtybVODMZn
+[2016-09-29 07:51:40,087] INFO msg ip: 127.0.0.1, port: 58923 ,channel:websocket.send!eRypDpnQXDqq
+[2016-09-29 07:52:19,631] INFO msg ip: 127.0.0.1, port: 59071 ,channel:websocket.send!dgSmXUplSvXs
+[2016-09-29 07:53:15,950] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 07:53:21,818] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 07:53:42,681] INFO msg ip: 127.0.0.1, port: 59414 ,channel:websocket.send!mWMBbCrabaTG
+[2016-09-29 07:53:42,689] INFO msg: sample
+[2016-09-29 07:53:46,076] INFO msg ip: 127.0.0.1, port: 59429 ,channel:websocket.send!DhKYfqacrDDH
+[2016-09-29 07:53:47,081] INFO msg ip: 127.0.0.1, port: 59433 ,channel:websocket.send!rTEdfRhVtzNQ
+[2016-09-29 07:53:47,084] INFO msg: sample
+[2016-09-29 07:53:50,049] INFO msg: hari
+[2016-09-29 07:55:14,470] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 07:55:19,092] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 07:55:33,494] INFO msg ip: 127.0.0.1, port: 59867 ,channel:websocket.send!OJWaFNuTZxvT
+[2016-09-29 07:55:36,352] INFO <type 'str'>
+[2016-09-29 07:55:36,352] INFO msg: hari
+[2016-09-29 07:55:47,082] INFO msg ip: 127.0.0.1, port: 59920 ,channel:websocket.send!xJUPlzOlOnrL
+[2016-09-29 07:55:47,085] INFO <type 'str'>
+[2016-09-29 07:55:47,085] INFO msg: sample
+[2016-09-29 07:56:03,292] INFO msg ip: 127.0.0.1, port: 59981 ,channel:websocket.send!GiPlTXNrstfm
+[2016-09-29 07:56:03,335] INFO <type 'str'>
+[2016-09-29 07:56:03,335] INFO msg: sample
+[2016-09-29 07:56:31,467] INFO msg ip: 127.0.0.1, port: 60083 ,channel:websocket.send!ghYuSrhaNqDz
+[2016-09-29 07:56:31,473] INFO <type 'str'>
+[2016-09-29 07:56:31,473] INFO msg: sample
+[2016-09-29 07:57:21,618] INFO msg ip: 127.0.0.1, port: 60248 ,channel:websocket.send!MmGpIqnYOdBf
+[2016-09-29 08:59:09,099] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 08:59:15,361] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 08:59:47,162] INFO msg ip: 127.0.0.1, port: 45756 ,channel:websocket.send!rBKhGhOTYyUi
+[2016-09-29 08:59:47,165] INFO (dp1
+S'ip'
+p2
+S'127.0.0.1'
+p3
+sS'details'
+p4
+(dp5
+Vpractice
+p6
+Vnull
+p7
+sVname
+p8
+Vph9700851249
+p9
+ssS'port'
+p10
+I42313
+sS'id'
+p11
+Vwebsocket.send!YKiscqWodqKZ
+p12
+s.
+[2016-09-29 08:59:47,165] INFO msg: sample
+[2016-09-29 09:00:02,750] INFO msg ip: 127.0.0.1, port: 45815 ,channel:websocket.send!CcRoTLQknATe
+[2016-09-29 09:00:15,841] INFO (dp1
+S'ip'
+p2
+S'127.0.0.1'
+p3
+sS'details'
+p4
+(dp5
+Vpractice
+p6
+Vnull
+p7
+sVname
+p8
+Vph9700851249
+p9
+ssS'port'
+p10
+I42313
+sS'id'
+p11
+Vwebsocket.send!YKiscqWodqKZ
+p12
+s.
+[2016-09-29 09:00:15,841] INFO msg: hari
+[2016-09-29 09:01:28,024] INFO msg ip: 127.0.0.1, port: 46121 ,channel:websocket.send!gziLLGElOeZd
+[2016-09-29 09:01:28,030] INFO (dp1
+S'ip'
+p2
+S'127.0.0.1'
+p3
+sS'details'
+p4
+(dp5
+Vpractice
+p6
+Vnull
+p7
+sVname
+p8
+Vph9700851249
+p9
+ssS'port'
+p10
+I42313
+sS'id'
+p11
+Vwebsocket.send!YKiscqWodqKZ
+p12
+s.
+[2016-09-29 09:01:28,030] INFO msg: sample
+[2016-09-29 09:01:36,414] INFO msg ip: 127.0.0.1, port: 46152 ,channel:websocket.send!NXgZKrvBXzmZ
+[2016-09-29 09:08:02,508] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 09:08:06,535] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 09:08:31,214] INFO msg ip: 127.0.0.1, port: 47677 ,channel:websocket.send!mCZUBImMtNrc
+[2016-09-29 09:08:51,654] INFO msg ip: 127.0.0.1, port: 47755 ,channel:websocket.send!qYbpkkqbooLk
+[2016-09-29 09:09:20,536] INFO msg ip: 127.0.0.1, port: 47868 ,channel:websocket.send!DGDMLJaZjkKD
+[2016-09-29 09:09:47,178] INFO msg ip: 127.0.0.1, port: 47968 ,channel:websocket.send!FRplhZGCNurt
+[2016-09-29 09:10:02,498] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 09:10:14,559] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 09:10:36,993] INFO msg ip: 127.0.0.1, port: 48193 ,channel:websocket.send!iJqBXjsNUUME
+[2016-09-29 09:11:25,888] INFO msg ip: 127.0.0.1, port: 48379 ,channel:websocket.send!LQXvWvTocOol
+[2016-09-29 09:11:47,212] INFO msg ip: 127.0.0.1, port: 48461 ,channel:websocket.send!KTPzAJTFLGLc
+[2016-09-29 09:15:22,833] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 09:15:29,028] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 09:15:47,217] INFO msg ip: 127.0.0.1, port: 49401 ,channel:websocket.send!LrMslQabxxPy
+[2016-09-29 09:15:47,220] INFO starts
+[2016-09-29 09:17:01,527] INFO msg ip: 127.0.0.1, port: 49671 ,channel:websocket.send!dFFUXMSqqrEB
+[2016-09-29 09:17:01,548] INFO starts
+[2016-09-29 09:18:05,366] INFO msg ip: 127.0.0.1, port: 49911 ,channel:websocket.send!tsjVoiRDQwqM
+[2016-09-29 09:18:46,617] INFO msg ip: 127.0.0.1, port: 50064 ,channel:websocket.send!moXaRMRgeQIR
+[2016-09-29 09:20:53,158] INFO msg ip: 127.0.0.1, port: 50543 ,channel:websocket.send!EBlysVKvCsoy
+[2016-09-29 09:20:53,166] INFO starts
+[2016-09-29 09:23:55,677] INFO msg ip: 127.0.0.1, port: 51239 ,channel:websocket.send!YBYOiqqJTaPB
+[2016-09-29 09:23:55,759] INFO starts
+[2016-09-29 09:24:16,243] INFO msg ip: 127.0.0.1, port: 51315 ,channel:websocket.send!mHfelVLJTHtW
+[2016-09-29 09:24:16,250] INFO starts
+[2016-09-29 09:25:06,499] INFO msg ip: 127.0.0.1, port: 51503 ,channel:websocket.send!FmoJqNiQqdNw
+[2016-09-29 09:25:16,462] INFO msg ip: 127.0.0.1, port: 51538 ,channel:websocket.send!IkkaDsTYRHga
+[2016-09-29 09:25:53,876] INFO msg ip: 127.0.0.1, port: 51682 ,channel:websocket.send!XLXmFCyYeMLK
+[2016-09-29 09:26:13,152] INFO msg ip: 127.0.0.1, port: 51759 ,channel:websocket.send!amQExRYAuXeR
+[2016-09-29 09:27:18,027] INFO msg ip: 127.0.0.1, port: 51991 ,channel:websocket.send!aomVcFnhWirW
+[2016-09-29 09:27:18,069] INFO starts
+[2016-09-29 09:30:27,469] INFO msg ip: 127.0.0.1, port: 52708 ,channel:websocket.send!hnmHAkPANPRQ
+[2016-09-29 09:30:28,622] INFO starts
+[2016-09-29 09:30:51,939] INFO msg ip: 127.0.0.1, port: 52799 ,channel:websocket.send!ATOdWwRjnDPf
+[2016-09-29 09:30:51,944] INFO starts
+[2016-09-29 09:31:25,441] INFO msg ip: 127.0.0.1, port: 52920 ,channel:websocket.send!RkUWjLygvoAS
+[2016-09-29 09:31:25,454] INFO starts
+[2016-09-29 09:32:03,943] INFO msg ip: 127.0.0.1, port: 53067 ,channel:websocket.send!bCkZwzlPuRiD
+[2016-09-29 09:32:03,950] INFO starts
+[2016-09-29 09:33:09,975] INFO msg ip: 127.0.0.1, port: 53308 ,channel:websocket.send!YFVHEPePMhQT
+[2016-09-29 09:33:09,980] INFO starts
+[2016-09-29 09:34:24,395] INFO msg ip: 127.0.0.1, port: 53582 ,channel:websocket.send!JhXdYDeQLsUB
+[2016-09-29 09:34:24,406] INFO starts
+[2016-09-29 09:35:14,425] INFO msg ip: 127.0.0.1, port: 53772 ,channel:websocket.send!hXdLRHvVPIwX
+[2016-09-29 09:35:14,447] INFO starts
+[2016-09-29 09:35:41,916] INFO msg ip: 127.0.0.1, port: 53878 ,channel:websocket.send!sGAxUqewEThj
+[2016-09-29 09:35:41,926] INFO starts
+[2016-09-29 09:36:59,703] INFO msg ip: 127.0.0.1, port: 54164 ,channel:websocket.send!iPlmAKgOmDbN
+[2016-09-29 09:39:26,491] INFO msg ip: 127.0.0.1, port: 54695 ,channel:websocket.send!kOpjbPZedZIE
+[2016-09-29 09:39:26,496] INFO starts
+[2016-09-29 09:51:06,625] INFO msg ip: 127.0.0.1, port: 57278 ,channel:websocket.send!LKphpdYrtWUc
+[2016-09-29 09:53:32,831] INFO msg ip: 127.0.0.1, port: 57831 ,channel:websocket.send!HgFWNZNCVFBm
+[2016-09-29 09:53:32,838] INFO starts
+[2016-09-29 09:54:06,730] INFO msg ip: 127.0.0.1, port: 57958 ,channel:websocket.send!OjBcWWLfaiXh
+[2016-09-29 09:55:51,551] INFO msg ip: 127.0.0.1, port: 58372 ,channel:websocket.send!CCjVTkyQgZHg
+[2016-09-29 09:55:51,561] INFO starts
+[2016-09-29 09:56:38,983] INFO msg ip: 127.0.0.1, port: 58565 ,channel:websocket.send!gYmUJitLjdAZ
+[2016-09-29 09:56:38,995] INFO starts
+[2016-09-29 09:56:57,790] DEBUG adding 2.7a808e2e-7479-427b-90f8-cdb156cbeb72
+[2016-09-29 09:56:57,793] DEBUG message from: <channels.message.Message object at 0x7fd2107ab0d0>, room: 2.7a808e2e-7479-427b-90f8-cdb156cbeb72
+[2016-09-29 09:56:59,777] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"type":"JOINED-ROOM","name":1884549}
+[2016-09-29 09:57:02,937] DEBUG adding 2.7a808e2e-7479-427b-90f8-cdb156cbeb72
+[2016-09-29 09:57:02,940] DEBUG message from: <channels.message.Message object at 0x7fd2107b46d0>, room: 2.7a808e2e-7479-427b-90f8-cdb156cbeb72
+[2016-09-29 09:57:05,129] DEBUG websocket.send!tayHNuqALCvw-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"type":"JOINED-ROOM","name":1493001}
+[2016-09-29 09:57:05,258] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"target":1493001,"type":"OFFER","sdp":{"type":"offer","sdp":"v=0\r\no=- 5699758364235100138 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS eYMBYCsX0eHyrAK913GQd0HIDXnilCqpTxcr\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 103 9 0 8 106 105 13 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:+C2S\r\na=ice-pwd:5gu+x+/hRktI5erlowg0dFEJ\r\na=fingerprint:sha-256 B3:00:56:D8:3A:75:A6:AC:F5:22:1F:D8:B0:2A:69:81:62:0E:1E:CE:C8:9B:B4:D7:1B:DC:1B:41:9D:4D:FF:86\r\na=setup:actpass\r\na=mid:audio\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=sendrecv\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:106 CN/32000\r\na=rtpmap:105 CN/16000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:3635878485 cname:09UR3V4nPlNnCIGb\r\na=ssrc:3635878485 msid:eYMBYCsX0eHyrAK913GQd0HIDXnilCqpTxcr ac2510a6-8ec1-4932-aee4-ae1d8699f7f0\r\na=ssrc:3635878485 mslabel:eYMBYCsX0eHyrAK913GQd0HIDXnilCqpTxcr\r\na=ssrc:3635878485 label:ac2510a6-8ec1-4932-aee4-ae1d8699f7f0\r\nm=video 9 UDP/TLS/RTP/SAVPF 100 101 116 117 96 97 98\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:+C2S\r\na=ice-pwd:5gu+x+/hRktI5erlowg0dFEJ\r\na=fingerprint:sha-256 B3:00:56:D8:3A:75:A6:AC:F5:22:1F:D8:B0:2A:69:81:62:0E:1E:CE:C8:9B:B4:D7:1B:DC:1B:41:9D:4D:FF:86\r\na=setup:actpass\r\na=mid:video\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 urn:3gpp:video-orientation\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=sendrecv\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtpmap:101 VP9/90000\r\na=rtcp-fb:101 ccm fir\r\na=rtcp-fb:101 nack\r\na=rtcp-fb:101 nack pli\r\na=rtcp-fb:101 goog-remb\r\na=rtcp-fb:101 transport-cc\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\na=rtpmap:96 rtx/90000\r\na=fmtp:96 apt=100\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=101\r\na=rtpmap:98 rtx/90000\r\na=fmtp:98 apt=116\r\na=ssrc-group:FID 1698109887 1168545567\r\na=ssrc:1698109887 cname:09UR3V4nPlNnCIGb\r\na=ssrc:1698109887 msid:eYMBYCsX0eHyrAK913GQd0HIDXnilCqpTxcr 830a8bd9-dc9f-4a5b-b15f-432cc9bb9ca6\r\na=ssrc:1698109887 mslabel:eYMBYCsX0eHyrAK913GQd0HIDXnilCqpTxcr\r\na=ssrc:1698109887 label:830a8bd9-dc9f-4a5b-b15f-432cc9bb9ca6\r\na=ssrc:1168545567 cname:09UR3V4nPlNnCIGb\r\na=ssrc:1168545567 msid:eYMBYCsX0eHyrAK913GQd0HIDXnilCqpTxcr 830a8bd9-dc9f-4a5b-b15f-432cc9bb9ca6\r\na=ssrc:1168545567 mslabel:eYMBYCsX0eHyrAK913GQd0HIDXnilCqpTxcr\r\na=ssrc:1168545567 label:830a8bd9-dc9f-4a5b-b15f-432cc9bb9ca6\r\nm=application 9 DTLS/SCTP 5000\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:+C2S\r\na=ice-pwd:5gu+x+/hRktI5erlowg0dFEJ\r\na=fingerprint:sha-256 B3:00:56:D8:3A:75:A6:AC:F5:22:1F:D8:B0:2A:69:81:62:0E:1E:CE:C8:9B:B4:D7:1B:DC:1B:41:9D:4D:FF:86\r\na=setup:actpass\r\na=mid:data\r\na=sctpmap:5000 webrtc-datachannel 1024\r\n"}}
+[2016-09-29 09:57:05,280] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:166081120 1 udp 2122260223 10.10.11.37 50556 typ host generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:57:05,295] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:166081120 2 udp 2122260222 10.10.11.37 36618 typ host generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:57:05,314] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:166081120 1 udp 2122260223 10.10.11.37 48217 typ host generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"data","sdpMLineIndex":2}}
+[2016-09-29 09:57:05,338] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:166081120 1 udp 2122260223 10.10.11.37 59079 typ host generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:57:05,343] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:166081120 2 udp 2122260222 10.10.11.37 44473 typ host generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:57:05,367] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:1197854352 1 tcp 1518280447 10.10.11.37 9 typ host tcptype active generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:57:05,386] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:1197854352 2 tcp 1518280446 10.10.11.37 9 typ host tcptype active generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:57:05,408] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:1197854352 1 tcp 1518280447 10.10.11.37 9 typ host tcptype active generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"data","sdpMLineIndex":2}}
+[2016-09-29 09:57:05,432] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:1197854352 1 tcp 1518280447 10.10.11.37 9 typ host tcptype active generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:57:05,456] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:1197854352 2 tcp 1518280446 10.10.11.37 9 typ host tcptype active generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:57:05,483] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:2696527285 1 udp 1686052607 202.153.37.92 50556 typ srflx raddr 10.10.11.37 rport 50556 generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:57:05,497] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:2696527285 2 udp 1686052606 202.153.37.92 36618 typ srflx raddr 10.10.11.37 rport 36618 generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:57:05,506] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:2696527285 1 udp 1686052607 202.153.37.92 48217 typ srflx raddr 10.10.11.37 rport 48217 generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"data","sdpMLineIndex":2}}
+[2016-09-29 09:57:05,512] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:2696527285 1 udp 1686052607 202.153.37.92 59079 typ srflx raddr 10.10.11.37 rport 59079 generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:57:05,520] DEBUG websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1884549,"type":"NEW-ICE-FOUND","target":1493001,"candidate":{"candidate":"candidate:2696527285 2 udp 1686052606 202.153.37.92 44473 typ srflx raddr 10.10.11.37 rport 44473 generation 0 ufrag +C2S network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:57:06,772] DEBUG websocket.send!tayHNuqALCvw-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1493001,"target":1884549,"type":"ANSWER","sdp":{"type":"answer","sdp":"v=0\r\no=- 1985719090048155013 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS MhovlNtXut4haF5Zpvx8LVDQAilPm9488l6Q\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 103 9 0 8 106 105 13 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:E6NE\r\na=ice-pwd:6P8CDjRo3OIVXG4I6A4XrYII\r\na=fingerprint:sha-256 14:BA:3A:55:6A:A1:3B:A1:6E:75:EC:6F:51:EC:C3:D1:E2:40:2D:FC:1C:D0:D3:8D:90:5A:F9:83:67:26:F5:3B\r\na=setup:active\r\na=mid:audio\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=sendrecv\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:106 CN/32000\r\na=rtpmap:105 CN/16000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:557970773 cname:WDLFTBcTxWajaxbW\r\na=ssrc:557970773 msid:MhovlNtXut4haF5Zpvx8LVDQAilPm9488l6Q bd919cb0-f099-458b-8a55-375f4409ae89\r\na=ssrc:557970773 mslabel:MhovlNtXut4haF5Zpvx8LVDQAilPm9488l6Q\r\na=ssrc:557970773 label:bd919cb0-f099-458b-8a55-375f4409ae89\r\nm=video 9 UDP/TLS/RTP/SAVPF 100 101 116 117 96 97 98\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:E6NE\r\na=ice-pwd:6P8CDjRo3OIVXG4I6A4XrYII\r\na=fingerprint:sha-256 14:BA:3A:55:6A:A1:3B:A1:6E:75:EC:6F:51:EC:C3:D1:E2:40:2D:FC:1C:D0:D3:8D:90:5A:F9:83:67:26:F5:3B\r\na=setup:active\r\na=mid:video\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 urn:3gpp:video-orientation\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=sendrecv\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtpmap:101 VP9/90000\r\na=rtcp-fb:101 ccm fir\r\na=rtcp-fb:101 nack\r\na=rtcp-fb:101 nack pli\r\na=rtcp-fb:101 goog-remb\r\na=rtcp-fb:101 transport-cc\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\na=rtpmap:96 rtx/90000\r\na=fmtp:96 apt=100\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=101\r\na=rtpmap:98 rtx/90000\r\na=fmtp:98 apt=116\r\na=ssrc-group:FID 1665551004 3696677359\r\na=ssrc:1665551004 cname:WDLFTBcTxWajaxbW\r\na=ssrc:1665551004 msid:MhovlNtXut4haF5Zpvx8LVDQAilPm9488l6Q 2633904c-4e09-4f47-bcd3-817ce804c9e5\r\na=ssrc:1665551004 mslabel:MhovlNtXut4haF5Zpvx8LVDQAilPm9488l6Q\r\na=ssrc:1665551004 label:2633904c-4e09-4f47-bcd3-817ce804c9e5\r\na=ssrc:3696677359 cname:WDLFTBcTxWajaxbW\r\na=ssrc:3696677359 msid:MhovlNtXut4haF5Zpvx8LVDQAilPm9488l6Q 2633904c-4e09-4f47-bcd3-817ce804c9e5\r\na=ssrc:3696677359 mslabel:MhovlNtXut4haF5Zpvx8LVDQAilPm9488l6Q\r\na=ssrc:3696677359 label:2633904c-4e09-4f47-bcd3-817ce804c9e5\r\nm=application 9 DTLS/SCTP 5000\r\nc=IN IP4 0.0.0.0\r\nb=AS:30\r\na=ice-ufrag:E6NE\r\na=ice-pwd:6P8CDjRo3OIVXG4I6A4XrYII\r\na=fingerprint:sha-256 14:BA:3A:55:6A:A1:3B:A1:6E:75:EC:6F:51:EC:C3:D1:E2:40:2D:FC:1C:D0:D3:8D:90:5A:F9:83:67:26:F5:3B\r\na=setup:active\r\na=mid:data\r\na=sctpmap:5000 webrtc-datachannel 1024\r\n"}}
+[2016-09-29 09:57:06,799] DEBUG websocket.send!tayHNuqALCvw-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1493001,"type":"NEW-ICE-FOUND","target":1884549,"candidate":{"candidate":"candidate:4234581152 1 udp 2122260223 10.10.11.77 60122 typ host generation 0 ufrag E6NE network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:57:06,813] DEBUG websocket.send!tayHNuqALCvw-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72: broadcasting: {"name":1493001,"type":"NEW-ICE-FOUND","target":1884549,"candidate":{"candidate":"candidate:1429805941 1 udp 1686052607 202.153.37.92 60122 typ srflx raddr 10.10.11.77 rport 60122 generation 0 ufrag E6NE network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:57:24,101] DEBUG disconnecting websocket.send!tayHNuqALCvw-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72
+[2016-09-29 09:57:33,724] DEBUG disconnecting websocket.send!QSrIjZcKNuEd-room-2.7a808e2e-7479-427b-90f8-cdb156cbeb72
+[2016-09-29 09:57:40,554] DEBUG adding 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-29 09:57:40,558] DEBUG message from: <channels.message.Message object at 0x7fd21080c8d0>, room: 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-29 09:57:42,368] DEBUG adding 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-29 09:57:42,371] DEBUG message from: <channels.message.Message object at 0x7fd210829b90>, room: 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-29 09:57:43,670] DEBUG adding 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-29 09:57:43,674] DEBUG message from: <channels.message.Message object at 0x7fd210a7bf90>, room: 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-29 09:57:44,660] DEBUG adding 2.9fbd89a1-e286-4943-8cef-3a15e2f9e938
+[2016-09-29 09:57:44,664] DEBUG message from: <channels.message.Message object at 0x7fd2108299d0>, room: 2.9fbd89a1-e286-4943-8cef-3a15e2f9e938
+[2016-09-29 09:57:44,835] DEBUG disconnecting websocket.send!QTydKVbRqWMz-room-2.9fbd89a1-e286-4943-8cef-3a15e2f9e938
+[2016-09-29 09:57:44,847] DEBUG disconnecting websocket.send!jqCmauoggSHe-room-2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-29 09:57:44,866] DEBUG disconnecting websocket.send!JCatgJuSVuoy-room-2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-29 09:57:44,872] DEBUG disconnecting websocket.send!isMsmJzRRcgK-room-2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-29 09:57:59,200] DEBUG adding 2.a447773a-0563-45f0-b593-312fcc9bdef7
+[2016-09-29 09:57:59,204] DEBUG message from: <channels.message.Message object at 0x7fd210770f90>, room: 2.a447773a-0563-45f0-b593-312fcc9bdef7
+[2016-09-29 09:57:59,813] DEBUG adding 2.a447773a-0563-45f0-b593-312fcc9bdef7
+[2016-09-29 09:57:59,817] DEBUG message from: <channels.message.Message object at 0x7fd210770ed0>, room: 2.a447773a-0563-45f0-b593-312fcc9bdef7
+[2016-09-29 09:58:00,386] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"type":"JOINED-ROOM","name":1715152}
+[2016-09-29 09:58:00,998] DEBUG websocket.send!ednccBCMKIez-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"type":"JOINED-ROOM","name":2067452}
+[2016-09-29 09:58:01,130] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"target":2067452,"type":"OFFER","sdp":{"type":"offer","sdp":"v=0\r\no=- 302805958961181903 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS htLW3wfXTdPZ9AO5aq06TxXv70Yh6T8hfo0n\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 103 9 0 8 106 105 13 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:TSWG\r\na=ice-pwd:2RS0XmMtRAc6g1kERE9Dwsv6\r\na=fingerprint:sha-256 85:3C:5A:C4:7E:44:D3:37:1E:32:D9:54:C0:CE:78:65:8E:7E:26:26:38:92:BF:E9:DC:F8:85:6E:53:A6:DF:CF\r\na=setup:actpass\r\na=mid:audio\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=sendrecv\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:106 CN/32000\r\na=rtpmap:105 CN/16000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:2302438988 cname:YTgcMRd/DNcqMqLe\r\na=ssrc:2302438988 msid:htLW3wfXTdPZ9AO5aq06TxXv70Yh6T8hfo0n c0cc1866-957c-4ca7-82ca-6dc9c9be26a1\r\na=ssrc:2302438988 mslabel:htLW3wfXTdPZ9AO5aq06TxXv70Yh6T8hfo0n\r\na=ssrc:2302438988 label:c0cc1866-957c-4ca7-82ca-6dc9c9be26a1\r\nm=video 9 UDP/TLS/RTP/SAVPF 100 101 116 117 96 97 98\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:TSWG\r\na=ice-pwd:2RS0XmMtRAc6g1kERE9Dwsv6\r\na=fingerprint:sha-256 85:3C:5A:C4:7E:44:D3:37:1E:32:D9:54:C0:CE:78:65:8E:7E:26:26:38:92:BF:E9:DC:F8:85:6E:53:A6:DF:CF\r\na=setup:actpass\r\na=mid:video\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 urn:3gpp:video-orientation\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=sendrecv\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtpmap:101 VP9/90000\r\na=rtcp-fb:101 ccm fir\r\na=rtcp-fb:101 nack\r\na=rtcp-fb:101 nack pli\r\na=rtcp-fb:101 goog-remb\r\na=rtcp-fb:101 transport-cc\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\na=rtpmap:96 rtx/90000\r\na=fmtp:96 apt=100\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=101\r\na=rtpmap:98 rtx/90000\r\na=fmtp:98 apt=116\r\na=ssrc-group:FID 2451152704 1860067898\r\na=ssrc:2451152704 cname:YTgcMRd/DNcqMqLe\r\na=ssrc:2451152704 msid:htLW3wfXTdPZ9AO5aq06TxXv70Yh6T8hfo0n 4bdd197e-ab53-4b97-ad69-1ca395234f73\r\na=ssrc:2451152704 mslabel:htLW3wfXTdPZ9AO5aq06TxXv70Yh6T8hfo0n\r\na=ssrc:2451152704 label:4bdd197e-ab53-4b97-ad69-1ca395234f73\r\na=ssrc:1860067898 cname:YTgcMRd/DNcqMqLe\r\na=ssrc:1860067898 msid:htLW3wfXTdPZ9AO5aq06TxXv70Yh6T8hfo0n 4bdd197e-ab53-4b97-ad69-1ca395234f73\r\na=ssrc:1860067898 mslabel:htLW3wfXTdPZ9AO5aq06TxXv70Yh6T8hfo0n\r\na=ssrc:1860067898 label:4bdd197e-ab53-4b97-ad69-1ca395234f73\r\nm=application 9 DTLS/SCTP 5000\r\nc=IN IP4 0.0.0.0\r\na=ice-ufrag:TSWG\r\na=ice-pwd:2RS0XmMtRAc6g1kERE9Dwsv6\r\na=fingerprint:sha-256 85:3C:5A:C4:7E:44:D3:37:1E:32:D9:54:C0:CE:78:65:8E:7E:26:26:38:92:BF:E9:DC:F8:85:6E:53:A6:DF:CF\r\na=setup:actpass\r\na=mid:data\r\na=sctpmap:5000 webrtc-datachannel 1024\r\n"}}
+[2016-09-29 09:58:01,151] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:166081120 1 udp 2122260223 10.10.11.37 41831 typ host generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:58:01,171] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:166081120 2 udp 2122260222 10.10.11.37 43942 typ host generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:58:01,204] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:166081120 1 udp 2122260223 10.10.11.37 33612 typ host generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"data","sdpMLineIndex":2}}
+[2016-09-29 09:58:01,230] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:166081120 1 udp 2122260223 10.10.11.37 45456 typ host generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:58:01,237] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:166081120 2 udp 2122260222 10.10.11.37 47629 typ host generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:58:01,246] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:2696527285 2 udp 1686052606 202.153.37.92 43942 typ srflx raddr 10.10.11.37 rport 43942 generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:58:01,257] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:2696527285 1 udp 1686052607 202.153.37.92 41831 typ srflx raddr 10.10.11.37 rport 41831 generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:58:01,267] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:2696527285 1 udp 1686052607 202.153.37.92 33612 typ srflx raddr 10.10.11.37 rport 33612 generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"data","sdpMLineIndex":2}}
+[2016-09-29 09:58:01,276] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:2696527285 2 udp 1686052606 202.153.37.92 47629 typ srflx raddr 10.10.11.37 rport 47629 generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:58:01,282] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:2696527285 1 udp 1686052607 202.153.37.92 45456 typ srflx raddr 10.10.11.37 rport 45456 generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:58:01,292] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:1197854352 1 tcp 1518280447 10.10.11.37 9 typ host tcptype active generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:58:01,302] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:1197854352 2 tcp 1518280446 10.10.11.37 9 typ host tcptype active generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:58:01,312] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:1197854352 1 tcp 1518280447 10.10.11.37 9 typ host tcptype active generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"data","sdpMLineIndex":2}}
+[2016-09-29 09:58:01,318] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:1197854352 1 tcp 1518280447 10.10.11.37 9 typ host tcptype active generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:58:01,329] DEBUG websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":1715152,"type":"NEW-ICE-FOUND","target":2067452,"candidate":{"candidate":"candidate:1197854352 2 tcp 1518280446 10.10.11.37 9 typ host tcptype active generation 0 ufrag TSWG network-id 1 network-cost 10","sdpMid":"video","sdpMLineIndex":1}}
+[2016-09-29 09:58:02,511] DEBUG websocket.send!ednccBCMKIez-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":2067452,"target":1715152,"type":"ANSWER","sdp":{"type":"answer","sdp":"v=0\r\no=- 8049499884141711591 2 IN IP4 127.0.0.1\r\ns=-\r\nt=0 0\r\na=group:BUNDLE audio video data\r\na=msid-semantic: WMS cawz0B8rnuDxsow5w0fabLhmU6xeMHOg3RsW\r\nm=audio 9 UDP/TLS/RTP/SAVPF 111 103 9 0 8 106 105 13 126\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:axQx\r\na=ice-pwd:+NY3P6+JnrWomo6VdvCWV7rc\r\na=fingerprint:sha-256 C8:A2:B1:A2:0F:D8:28:DE:C9:16:BE:BA:AD:5F:ED:32:A9:86:2E:E1:AB:A5:E7:FD:6D:18:4E:C7:0F:FF:75:BD\r\na=setup:active\r\na=mid:audio\r\na=extmap:1 urn:ietf:params:rtp-hdrext:ssrc-audio-level\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=sendrecv\r\na=rtcp-mux\r\na=rtpmap:111 opus/48000/2\r\na=rtcp-fb:111 transport-cc\r\na=fmtp:111 minptime=10;useinbandfec=1\r\na=rtpmap:103 ISAC/16000\r\na=rtpmap:9 G722/8000\r\na=rtpmap:0 PCMU/8000\r\na=rtpmap:8 PCMA/8000\r\na=rtpmap:106 CN/32000\r\na=rtpmap:105 CN/16000\r\na=rtpmap:13 CN/8000\r\na=rtpmap:126 telephone-event/8000\r\na=ssrc:431204341 cname:4iszbKQ8ca7qjPPh\r\na=ssrc:431204341 msid:cawz0B8rnuDxsow5w0fabLhmU6xeMHOg3RsW b5c898c8-4652-4a77-8005-b4b7054d2ca9\r\na=ssrc:431204341 mslabel:cawz0B8rnuDxsow5w0fabLhmU6xeMHOg3RsW\r\na=ssrc:431204341 label:b5c898c8-4652-4a77-8005-b4b7054d2ca9\r\nm=video 9 UDP/TLS/RTP/SAVPF 100 101 116 117 96 97 98\r\nc=IN IP4 0.0.0.0\r\na=rtcp:9 IN IP4 0.0.0.0\r\na=ice-ufrag:axQx\r\na=ice-pwd:+NY3P6+JnrWomo6VdvCWV7rc\r\na=fingerprint:sha-256 C8:A2:B1:A2:0F:D8:28:DE:C9:16:BE:BA:AD:5F:ED:32:A9:86:2E:E1:AB:A5:E7:FD:6D:18:4E:C7:0F:FF:75:BD\r\na=setup:active\r\na=mid:video\r\na=extmap:2 urn:ietf:params:rtp-hdrext:toffset\r\na=extmap:3 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\na=extmap:4 urn:3gpp:video-orientation\r\na=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\na=sendrecv\r\na=rtcp-mux\r\na=rtcp-rsize\r\na=rtpmap:100 VP8/90000\r\na=rtcp-fb:100 ccm fir\r\na=rtcp-fb:100 nack\r\na=rtcp-fb:100 nack pli\r\na=rtcp-fb:100 goog-remb\r\na=rtcp-fb:100 transport-cc\r\na=rtpmap:101 VP9/90000\r\na=rtcp-fb:101 ccm fir\r\na=rtcp-fb:101 nack\r\na=rtcp-fb:101 nack pli\r\na=rtcp-fb:101 goog-remb\r\na=rtcp-fb:101 transport-cc\r\na=rtpmap:116 red/90000\r\na=rtpmap:117 ulpfec/90000\r\na=rtpmap:96 rtx/90000\r\na=fmtp:96 apt=100\r\na=rtpmap:97 rtx/90000\r\na=fmtp:97 apt=101\r\na=rtpmap:98 rtx/90000\r\na=fmtp:98 apt=116\r\na=ssrc-group:FID 4007672583 372302232\r\na=ssrc:4007672583 cname:4iszbKQ8ca7qjPPh\r\na=ssrc:4007672583 msid:cawz0B8rnuDxsow5w0fabLhmU6xeMHOg3RsW 574bf6c3-b8c7-459f-aff3-407e932a244a\r\na=ssrc:4007672583 mslabel:cawz0B8rnuDxsow5w0fabLhmU6xeMHOg3RsW\r\na=ssrc:4007672583 label:574bf6c3-b8c7-459f-aff3-407e932a244a\r\na=ssrc:372302232 cname:4iszbKQ8ca7qjPPh\r\na=ssrc:372302232 msid:cawz0B8rnuDxsow5w0fabLhmU6xeMHOg3RsW 574bf6c3-b8c7-459f-aff3-407e932a244a\r\na=ssrc:372302232 mslabel:cawz0B8rnuDxsow5w0fabLhmU6xeMHOg3RsW\r\na=ssrc:372302232 label:574bf6c3-b8c7-459f-aff3-407e932a244a\r\nm=application 9 DTLS/SCTP 5000\r\nc=IN IP4 0.0.0.0\r\nb=AS:30\r\na=ice-ufrag:axQx\r\na=ice-pwd:+NY3P6+JnrWomo6VdvCWV7rc\r\na=fingerprint:sha-256 C8:A2:B1:A2:0F:D8:28:DE:C9:16:BE:BA:AD:5F:ED:32:A9:86:2E:E1:AB:A5:E7:FD:6D:18:4E:C7:0F:FF:75:BD\r\na=setup:active\r\na=mid:data\r\na=sctpmap:5000 webrtc-datachannel 1024\r\n"}}
+[2016-09-29 09:58:02,530] DEBUG websocket.send!ednccBCMKIez-room-2.a447773a-0563-45f0-b593-312fcc9bdef7: broadcasting: {"name":2067452,"type":"NEW-ICE-FOUND","target":1715152,"candidate":{"candidate":"candidate:4234581152 1 udp 2122260223 10.10.11.77 36970 typ host generation 0 ufrag axQx network-id 1 network-cost 10","sdpMid":"audio","sdpMLineIndex":0}}
+[2016-09-29 09:58:58,327] DEBUG disconnecting websocket.send!SBRlBPfdJENw-room-2.a447773a-0563-45f0-b593-312fcc9bdef7
+[2016-09-29 09:58:59,281] DEBUG disconnecting websocket.send!ednccBCMKIez-room-2.a447773a-0563-45f0-b593-312fcc9bdef7
+[2016-09-29 10:01:30,242] INFO msg ip: 127.0.0.1, port: 59755 ,channel:websocket.send!MLowwJJAvfHV
+[2016-09-29 10:02:39,570] INFO msg ip: 127.0.0.1, port: 60013 ,channel:websocket.send!gepZtwpESkgp
+[2016-09-29 10:04:53,993] INFO msg ip: 127.0.0.1, port: 60517 ,channel:websocket.send!QjkWqAemOqlO
+[2016-09-29 10:15:22,366] INFO msg ip: 127.0.0.1, port: 34609 ,channel:websocket.send!vekKfZPrTfkT
+[2016-09-29 10:15:22,373] INFO starts
+[2016-09-29 10:24:03,709] INFO msg ip: 127.0.0.1, port: 36521 ,channel:websocket.send!JmExOifxZNZb
+[2016-09-29 10:24:03,766] INFO starts
+[2016-09-29 10:29:31,459] INFO msg ip: 127.0.0.1, port: 37721 ,channel:websocket.send!nPCOkazuUuFW
+[2016-09-29 10:29:31,468] INFO starts
+[2016-09-29 10:39:38,971] INFO msg ip: 127.0.0.1, port: 39952 ,channel:websocket.send!AQDsdCGlOalI
+[2016-09-29 10:39:38,980] INFO starts
+[2016-09-29 10:41:21,161] INFO msg ip: 127.0.0.1, port: 40385 ,channel:websocket.send!IIPnwQFAkFMH
+[2016-09-29 10:41:21,242] INFO starts
+[2016-09-29 10:41:41,113] INFO msg ip: 127.0.0.1, port: 40460 ,channel:websocket.send!HXbhrTEIXkzs
+[2016-09-29 10:41:41,118] INFO starts
+[2016-09-29 10:43:09,904] INFO msg ip: 127.0.0.1, port: 40769 ,channel:websocket.send!nJAqPPJkFzdC
+[2016-09-29 10:43:09,915] INFO starts
+[2016-09-29 10:51:30,497] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 10:51:45,004] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 10:52:40,383] INFO msg ip: 127.0.0.1, port: 42880 ,channel:websocket.send!dQnogNZGQaBY
+[2016-09-29 10:52:40,389] INFO starts
+[2016-09-29 10:52:59,147] INFO msg ip: 127.0.0.1, port: 42955 ,channel:websocket.send!aLSwKCeEtGdn
+[2016-09-29 10:52:59,154] INFO starts
+[2016-09-29 10:53:42,287] INFO msg ip: 127.0.0.1, port: 43124 ,channel:websocket.send!ilzCtyhWLjbJ
+[2016-09-29 10:53:42,294] INFO starts
+[2016-09-29 10:55:29,287] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 10:55:37,700] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 10:55:43,884] INFO msg ip: 127.0.0.1, port: 43590 ,channel:websocket.send!XWCxcasJKdym
+[2016-09-29 10:55:43,890] INFO starts
+[2016-09-29 10:56:00,268] INFO msg ip: 127.0.0.1, port: 43656 ,channel:websocket.send!ESlGnnonlgaz
+[2016-09-29 10:56:00,276] INFO starts
+[2016-09-29 10:56:04,358] INFO msg ip: 127.0.0.1, port: 43667 ,channel:websocket.send!nkliDFvmoILq
+[2016-09-29 10:56:56,920] INFO msg ip: 127.0.0.1, port: 43859 ,channel:websocket.send!YZaIZOFaFTBZ
+[2016-09-29 10:58:55,226] INFO msg ip: 127.0.0.1, port: 44296 ,channel:websocket.send!YYedXGzMWlQN
+[2016-09-29 11:00:28,317] INFO msg ip: 127.0.0.1, port: 44615 ,channel:websocket.send!uffqfpoasQFO
+[2016-09-29 11:01:16,468] INFO msg ip: 127.0.0.1, port: 44785 ,channel:websocket.send!FetlwABntHxt
+[2016-09-29 11:06:39,304] INFO msg ip: 127.0.0.1, port: 45909 ,channel:websocket.send!hgcTFlKKfmzP
+[2016-09-29 11:18:12,530] INFO msg ip: 127.0.0.1, port: 48360 ,channel:websocket.send!mViFtQhgcMkQ
+[2016-09-29 11:19:24,220] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 11:19:29,160] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 11:20:03,147] INFO msg ip: 127.0.0.1, port: 48801 ,channel:websocket.send!lBnfbHvgNNNm
+[2016-09-29 11:20:11,278] INFO starts
+[2016-09-29 11:20:41,056] INFO starts
+[2016-09-29 11:20:41,440] INFO starts
+[2016-09-29 11:20:41,620] INFO starts
+[2016-09-29 11:20:41,812] INFO starts
+[2016-09-29 11:20:42,029] INFO starts
+[2016-09-29 11:20:42,260] INFO starts
+[2016-09-29 11:20:42,440] INFO starts
+[2016-09-29 11:20:42,645] INFO starts
+[2016-09-29 11:20:42,843] INFO starts
+[2016-09-29 11:20:43,058] INFO starts
+[2016-09-29 11:21:11,623] INFO msg ip: 127.0.0.1, port: 49056 ,channel:websocket.send!XqZJOrQzZwWJ
+[2016-09-29 11:21:11,631] INFO starts
+[2016-09-29 11:21:15,523] INFO msg ip: 127.0.0.1, port: 49071 ,channel:websocket.send!XHXiJyEjhbEQ
+[2016-09-29 11:21:15,548] INFO starts
+[2016-09-29 11:21:33,417] INFO msg ip: 127.0.0.1, port: 49135 ,channel:websocket.send!uXbLsFqAegwF
+[2016-09-29 11:22:19,310] INFO msg ip: 127.0.0.1, port: 49317 ,channel:websocket.send!rnwgFHZCrIvm
+[2016-09-29 11:23:49,997] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 11:23:55,079] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 11:24:49,105] INFO msg ip: 127.0.0.1, port: 49914 ,channel:websocket.send!rDyqxQYdKphs
+[2016-09-29 11:24:49,113] INFO starts
+[2016-09-29 11:24:49,113] INFO sample
+[2016-09-29 11:24:49,114] INFO Done
+[2016-09-29 11:25:26,035] INFO msg ip: 127.0.0.1, port: 50056 ,channel:websocket.send!ospcaugHicVN
+[2016-09-29 11:25:26,041] INFO starts
+[2016-09-29 11:25:26,042] INFO sample
+[2016-09-29 11:25:26,042] INFO Done
+[2016-09-29 11:26:09,572] INFO msg ip: 127.0.0.1, port: 50214 ,channel:websocket.send!jxaloYFAaVWM
+[2016-09-29 11:27:33,661] INFO msg ip: 127.0.0.1, port: 50510 ,channel:websocket.send!ipYggvQZGXqH
+[2016-09-29 11:31:44,478] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 11:31:49,624] DEBUG using room_url: ^meeting/(?P<room_id>[^/]+)/$
+[2016-09-29 11:32:32,050] INFO msg ip: 127.0.0.1, port: 51671 ,channel:websocket.send!HJkwiCabASkA
+[2016-09-29 11:32:47,100] INFO msg ip: 127.0.0.1, port: 51726 ,channel:websocket.send!wgepGNYGfHuD
+[2016-09-29 11:33:07,778] INFO msg ip: 127.0.0.1, port: 51816 ,channel:websocket.send!clrsfnqLLXwy
+[2016-09-29 11:33:07,785] INFO starts
+[2016-09-29 11:33:07,785] INFO Done
+[2016-09-29 11:33:19,388] INFO msg ip: 127.0.0.1, port: 51860 ,channel:websocket.send!GVgVxyzyfNuv
+[2016-09-29 11:33:33,124] INFO starts
+[2016-09-29 11:33:33,124] INFO asdad/websocket.send!HJkwiCabASkA
+[2016-09-29 11:33:33,124] INFO Done
+[2016-09-29 11:33:55,072] INFO msg ip: 127.0.0.1, port: 51992 ,channel:websocket.send!GckswOCygyTe
+[2016-09-29 11:33:55,080] INFO starts
+[2016-09-29 11:33:55,080] INFO Done
+[2016-09-29 12:58:55,119] INFO msg ip: 127.0.0.1, port: 42404 ,channel:websocket.send!OJBJiwnbMIEg
+[2016-09-29 13:01:59,807] INFO msg ip: 127.0.0.1, port: 43102 ,channel:websocket.send!qtdzjAfbJkvQ
+[2016-09-29 13:01:59,819] INFO starts
+[2016-09-29 13:01:59,819] INFO Done
+[2016-09-29 13:04:40,811] INFO msg ip: 127.0.0.1, port: 43710 ,channel:websocket.send!FOkRRQyWtvbV
+[2016-09-29 13:22:09,893] INFO msg ip: 127.0.0.1, port: 47647 ,channel:websocket.send!BVazgISEbbDE
+[2016-09-29 13:22:09,902] INFO starts
+[2016-09-29 13:22:09,902] INFO Done
+[2016-09-29 13:22:59,308] INFO msg ip: 127.0.0.1, port: 47830 ,channel:websocket.send!vUrGPlcatqKU
+[2016-09-29 13:23:30,767] INFO msg ip: 127.0.0.1, port: 47954 ,channel:websocket.send!leGxKTkEWDLf
+[2016-09-29 13:27:30,204] INFO msg ip: 127.0.0.1, port: 48871 ,channel:websocket.send!RpVYdMIVUsgN
+[2016-09-29 13:27:33,190] INFO msg ip: 127.0.0.1, port: 48885 ,channel:websocket.send!KgJFvcjvjMWK
+[2016-09-29 13:29:19,628] INFO msg ip: 127.0.0.1, port: 49294 ,channel:websocket.send!IkWiLKFkZnFu
+[2016-09-29 13:29:23,557] INFO msg ip: 127.0.0.1, port: 49311 ,channel:websocket.send!YvFGciIsONYp
+[2016-09-29 13:31:34,717] DEBUG adding 2.8c436111-db03-44bc-8859-4ad89a301b70
+[2016-09-29 13:31:34,721] DEBUG message from: <channels.message.Message object at 0x7f360cfe55d0>, room: 2.8c436111-db03-44bc-8859-4ad89a301b70
+[2016-09-29 13:31:34,889] DEBUG disconnecting websocket.send!XeHcqkWvvawz-room-2.8c436111-db03-44bc-8859-4ad89a301b70
+[2016-09-29 13:35:41,504] INFO msg ip: 127.0.0.1, port: 50732 ,channel:websocket.send!XQwQgEIRqhpu
+[2016-09-29 13:35:41,513] INFO starts
+[2016-09-29 13:35:41,513] INFO Done
+[2016-09-29 13:38:25,431] DEBUG adding 2.8c436111-db03-44bc-8859-4ad89a301b70
+[2016-09-29 13:38:25,435] DEBUG message from: <channels.message.Message object at 0x7f360d02c790>, room: 2.8c436111-db03-44bc-8859-4ad89a301b70
+[2016-09-29 13:38:25,615] DEBUG disconnecting websocket.send!iNKyTAwKAWtG-room-2.8c436111-db03-44bc-8859-4ad89a301b70
+[2016-09-29 13:39:26,929] INFO msg ip: 127.0.0.1, port: 51590 ,channel:websocket.send!ZOJzdoibvGrI
+[2016-09-29 13:39:29,783] INFO msg ip: 127.0.0.1, port: 51605 ,channel:websocket.send!sxuCDXAfUErC
+[2016-09-29 13:44:30,384] INFO msg ip: 127.0.0.1, port: 52756 ,channel:websocket.send!bvijisjHgEBI
+[2016-09-29 13:44:30,393] INFO starts
+[2016-09-29 13:44:30,393] INFO Done
+[2016-09-29 13:45:38,171] INFO msg ip: 127.0.0.1, port: 53006 ,channel:websocket.send!CWhzVDIJxeoA
+[2016-09-29 13:45:38,178] INFO starts
+[2016-09-29 13:45:38,178] INFO Done
+[2016-09-29 13:46:06,935] INFO msg ip: 127.0.0.1, port: 53128 ,channel:websocket.send!kxQBjxTvZMZm
+[2016-09-29 13:46:13,902] INFO msg ip: 127.0.0.1, port: 53155 ,channel:websocket.send!mnXwMViKelOn
+[2016-09-29 13:46:21,408] INFO msg ip: 127.0.0.1, port: 53187 ,channel:websocket.send!nwUViJhGgieA
+[2016-09-29 13:52:15,883] INFO msg ip: 127.0.0.1, port: 54575 ,channel:websocket.send!bKXHUpbXJolq
+[2016-09-29 13:53:13,097] INFO msg ip: 127.0.0.1, port: 54796 ,channel:websocket.send!QnlQzoCezSdZ
+[2016-09-29 14:04:53,624] INFO msg ip: 127.0.0.1, port: 57465 ,channel:websocket.send!bviwMKUexpHv
+[2016-09-29 14:05:04,683] INFO msg ip: 127.0.0.1, port: 57514 ,channel:websocket.send!svEVwMDcVbPd
+[2016-09-29 14:10:58,045] INFO msg ip: 127.0.0.1, port: 59020 ,channel:websocket.send!ScrJnKsyNYvQ
+[2016-09-29 14:11:04,190] INFO msg ip: 127.0.0.1, port: 59051 ,channel:websocket.send!YphNeaScyuSa
+[2016-09-29 14:12:37,710] INFO msg ip: 127.0.0.1, port: 59450 ,channel:websocket.send!hmyHqBXmjpiF
+[2016-09-29 14:12:37,721] INFO starts
+[2016-09-29 14:12:37,721] INFO Done
+[2016-09-29 14:23:50,445] INFO msg ip: 127.0.0.1, port: 33774 ,channel:websocket.send!lbCrPJuFDUwS
+[2016-09-29 14:50:54,704] INFO msg ip: 127.0.0.1, port: 40037 ,channel:websocket.send!LWiPicFBuGQG
+[2016-09-29 14:51:47,281] INFO msg ip: 127.0.0.1, port: 40255 ,channel:websocket.send!ibiDmJkoOZaE
+[2016-09-29 14:52:20,922] INFO msg ip: 127.0.0.1, port: 40398 ,channel:websocket.send!zbttRuOgCxiW
+[2016-09-29 14:52:32,317] INFO msg ip: 127.0.0.1, port: 40460 ,channel:websocket.send!ImTxWbWppfDx
+[2016-09-29 14:53:35,510] INFO msg ip: 127.0.0.1, port: 40720 ,channel:websocket.send!xIDnixlBJuPI
+[2016-09-29 14:54:27,852] INFO msg ip: 127.0.0.1, port: 40939 ,channel:websocket.send!GjBsRJFtgcib
+[2016-09-29 14:57:55,209] INFO msg ip: 127.0.0.1, port: 41720 ,channel:websocket.send!UmZQCBWaKYXn
+[2016-09-29 14:58:46,667] INFO msg ip: 127.0.0.1, port: 41918 ,channel:websocket.send!KvzQJaKpAncY
+[2016-09-29 14:59:34,737] INFO msg ip: 127.0.0.1, port: 42102 ,channel:websocket.send!yLQRuSigJtrl
+[2016-09-29 15:00:51,483] INFO msg ip: 127.0.0.1, port: 42400 ,channel:websocket.send!frwPEPUkzmGo
+[2016-09-29 15:00:51,493] INFO starts
+[2016-09-29 15:00:51,493] INFO Done
+[2016-09-29 15:03:04,206] INFO msg ip: 127.0.0.1, port: 42903 ,channel:websocket.send!boJcETxsdslk
+[2016-09-29 15:04:21,700] INFO msg ip: 127.0.0.1, port: 43198 ,channel:websocket.send!wLKEHifkxGzB
+[2016-09-29 15:06:43,562] INFO msg ip: 127.0.0.1, port: 43764 ,channel:websocket.send!IiBkiQNQCHcr
+[2016-09-29 15:06:48,243] INFO msg ip: 127.0.0.1, port: 43788 ,channel:websocket.send!BuzQIgDPeKYp
+[2016-09-29 15:12:44,592] INFO msg ip: 127.0.0.1, port: 45139 ,channel:websocket.send!EvpYALEcUEEP
+[2016-09-29 15:12:44,607] INFO starts
+[2016-09-29 15:12:44,607] INFO Done
+[2016-09-29 15:13:30,421] INFO msg ip: 127.0.0.1, port: 45318 ,channel:websocket.send!UjQolwTxCiSK
+[2016-09-29 15:13:34,824] INFO msg ip: 127.0.0.1, port: 45335 ,channel:websocket.send!ltswnAKwYgBC
+[2016-09-29 15:16:44,866] INFO msg ip: 127.0.0.1, port: 46116 ,channel:websocket.send!ePIPoxKYHBPV
+[2016-09-29 15:16:49,049] INFO msg ip: 127.0.0.1, port: 46133 ,channel:websocket.send!FJrHzrvHgqTQ
+[2016-09-29 15:19:43,198] INFO msg ip: 127.0.0.1, port: 46847 ,channel:websocket.send!adxFARZXwdRa
+[2016-09-29 15:19:47,551] INFO msg ip: 127.0.0.1, port: 46865 ,channel:websocket.send!SZkMuKZZbiVA
+[2016-09-29 15:20:44,573] INFO msg ip: 127.0.0.1, port: 47079 ,channel:websocket.send!GZhyFpXHloiV
+[2016-09-29 15:21:51,188] INFO msg ip: 127.0.0.1, port: 47349 ,channel:websocket.send!bEJZKkpEydIE
+[2016-09-29 15:21:57,342] INFO msg ip: 127.0.0.1, port: 47374 ,channel:websocket.send!nLzvwWZjNdtg
+[2016-09-29 15:22:48,317] INFO msg ip: 127.0.0.1, port: 47566 ,channel:websocket.send!zQPqcIYHOHRv
+[2016-09-29 15:23:46,019] INFO msg ip: 127.0.0.1, port: 47791 ,channel:websocket.send!cssxAXOJJsnQ

@@ -1,0 +1,104 @@
+[2016-09-28 05:35:15,517] INFO msg ip: 127.0.0.1, port: 53108
+[2016-09-28 05:44:35,248] INFO msg ip: 127.0.0.1, port: 55148
+[2016-09-28 06:10:54,343] INFO msg ip: 127.0.0.1, port: 60754
+[2016-09-28 06:13:31,729] INFO msg ip: 127.0.0.1, port: 33121
+[2016-09-28 06:14:10,052] INFO msg ip: 127.0.0.1, port: 33270
+[2016-09-28 06:17:24,372] INFO msg ip: 127.0.0.1, port: 34024
+[2016-09-28 06:17:45,711] INFO msg ip: 127.0.0.1, port: 34111
+[2016-09-28 06:22:11,968] INFO msg ip: 127.0.0.1, port: 35131
+[2016-09-28 06:22:50,041] INFO msg ip: 127.0.0.1, port: 35277
+[2016-09-28 06:22:50,240] INFO msg ip: 127.0.0.1, port: 35279
+[2016-09-28 06:23:24,935] INFO msg ip: 127.0.0.1, port: 35414
+[2016-09-28 06:25:04,763] INFO msg ip: 127.0.0.1, port: 35816
+[2016-09-28 06:25:30,057] INFO msg ip: 127.0.0.1, port: 35921
+[2016-09-28 06:26:49,982] INFO msg ip: 127.0.0.1, port: 36232
+[2016-09-28 06:27:13,357] INFO msg ip: 127.0.0.1, port: 36324
+[2016-09-28 06:28:50,150] INFO msg ip: 127.0.0.1, port: 36701
+[2016-09-28 06:37:52,471] INFO msg ip: 127.0.0.1, port: 37994
+[2016-09-28 06:43:15,415] INFO msg ip: 127.0.0.1, port: 38204
+[2016-09-28 06:43:32,399] INFO msg ip: 127.0.0.1, port: 38207
+[2016-09-28 06:43:52,916] INFO msg ip: 127.0.0.1, port: 38212
+[2016-09-28 06:46:37,609] INFO msg ip: 127.0.0.1, port: 38240
+[2016-09-28 06:48:20,159] INFO msg ip: 127.0.0.1, port: 38255
+[2016-09-28 06:48:41,147] INFO msg ip: 127.0.0.1, port: 38258
+[2016-09-28 06:50:38,313] DEBUG adding 2.03046866-b72f-495f-a2cd-0e3501b86068
+[2016-09-28 06:50:38,316] DEBUG message from: <channels.message.Message object at 0x7f559c131390>, room: 2.03046866-b72f-495f-a2cd-0e3501b86068
+[2016-09-28 06:50:40,181] DEBUG websocket.send!SfQHaoBLGGGh-room-2.03046866-b72f-495f-a2cd-0e3501b86068: broadcasting: {"type":"JOINED-ROOM","name":2048389}
+[2016-09-28 06:52:18,928] DEBUG disconnecting websocket.send!SfQHaoBLGGGh-room-2.03046866-b72f-495f-a2cd-0e3501b86068
+[2016-09-28 06:52:41,285] INFO msg ip: 127.0.0.1, port: 38328
+[2016-09-28 06:53:02,121] DEBUG adding 2.193a08e6-a6ed-400d-88d7-b58bc5de230a
+[2016-09-28 06:53:02,125] DEBUG message from: <channels.message.Message object at 0x7f559c11c310>, room: 2.193a08e6-a6ed-400d-88d7-b58bc5de230a
+[2016-09-28 06:53:03,277] DEBUG websocket.send!mrORgOMDSTeM-room-2.193a08e6-a6ed-400d-88d7-b58bc5de230a: broadcasting: {"type":"JOINED-ROOM","name":1078241}
+[2016-09-28 06:54:42,043] INFO msg ip: 127.0.0.1, port: 38355
+[2016-09-28 06:54:53,934] DEBUG adding 2.5129a41e-00ef-4417-9996-a2ad494b5517
+[2016-09-28 06:54:53,944] DEBUG message from: <channels.message.Message object at 0x7f559c11c890>, room: 2.5129a41e-00ef-4417-9996-a2ad494b5517
+[2016-09-28 06:57:38,106] INFO msg ip: 127.0.0.1, port: 38383
+[2016-09-28 06:58:03,231] DEBUG adding 2.b37b08bb-e9a1-43ef-bd2d-0ecfb5eebe4d
+[2016-09-28 06:58:03,236] DEBUG message from: <channels.message.Message object at 0x7f559c0f7610>, room: 2.b37b08bb-e9a1-43ef-bd2d-0ecfb5eebe4d
+[2016-09-28 06:58:05,354] DEBUG websocket.send!knLtCUelxTiV-room-2.b37b08bb-e9a1-43ef-bd2d-0ecfb5eebe4d: broadcasting: {"type":"JOINED-ROOM","name":1879951}
+[2016-09-28 07:01:08,502] INFO msg ip: 127.0.0.1, port: 38416
+[2016-09-28 07:01:26,026] DEBUG adding 2.5574d11f-1171-49a7-8761-0a0a4b58424c
+[2016-09-28 07:01:26,029] DEBUG message from: <channels.message.Message object at 0x7f559c125d50>, room: 2.5574d11f-1171-49a7-8761-0a0a4b58424c
+[2016-09-28 07:01:27,051] DEBUG websocket.send!KDNCvJeGFjgi-room-2.5574d11f-1171-49a7-8761-0a0a4b58424c: broadcasting: {"type":"JOINED-ROOM","name":1132248}
+[2016-09-28 07:03:02,037] INFO msg ip: 127.0.0.1, port: 38464
+[2016-09-28 07:05:39,116] INFO msg ip: 127.0.0.1, port: 38477
+[2016-09-28 07:06:37,511] DEBUG adding 2.60ae7fb0-8539-47a4-bcfc-0eda15a2822b
+[2016-09-28 07:06:37,516] DEBUG message from: <channels.message.Message object at 0x7f559c131c50>, room: 2.60ae7fb0-8539-47a4-bcfc-0eda15a2822b
+[2016-09-28 07:06:42,219] DEBUG disconnecting websocket.send!KDNCvJeGFjgi-room-2.5574d11f-1171-49a7-8761-0a0a4b58424c
+[2016-09-28 07:06:42,234] DEBUG disconnecting websocket.send!oIFkwjANfxYg-room-2.60ae7fb0-8539-47a4-bcfc-0eda15a2822b
+[2016-09-28 07:06:49,103] DEBUG disconnecting websocket.send!mrORgOMDSTeM-room-2.193a08e6-a6ed-400d-88d7-b58bc5de230a
+[2016-09-28 07:06:49,125] DEBUG disconnecting websocket.send!hvDbpZrWzGlg-room-2.5129a41e-00ef-4417-9996-a2ad494b5517
+[2016-09-28 07:06:49,148] DEBUG disconnecting websocket.send!knLtCUelxTiV-room-2.b37b08bb-e9a1-43ef-bd2d-0ecfb5eebe4d
+[2016-09-28 07:07:27,887] INFO msg ip: 127.0.0.1, port: 38505
+[2016-09-28 07:07:51,756] DEBUG adding 2.301d1c80-f1e2-4d26-bd57-3585d6e04d29
+[2016-09-28 07:07:51,760] DEBUG message from: <channels.message.Message object at 0x7f559c178750>, room: 2.301d1c80-f1e2-4d26-bd57-3585d6e04d29
+[2016-09-28 07:07:52,734] DEBUG websocket.send!aiTIkvINbjFR-room-2.301d1c80-f1e2-4d26-bd57-3585d6e04d29: broadcasting: {"type":"JOINED-ROOM","name":1089688}
+[2016-09-28 07:08:59,381] DEBUG disconnecting websocket.send!aiTIkvINbjFR-room-2.301d1c80-f1e2-4d26-bd57-3585d6e04d29
+[2016-09-28 07:10:05,723] INFO msg ip: 127.0.0.1, port: 38542
+[2016-09-28 07:12:30,780] INFO msg ip: 127.0.0.1, port: 38552
+[2016-09-28 07:12:38,631] DEBUG adding 2.2b4327fe-eb2e-483e-89ec-f77d06662d29
+[2016-09-28 07:12:38,636] DEBUG message from: <channels.message.Message object at 0x7f559c178250>, room: 2.2b4327fe-eb2e-483e-89ec-f77d06662d29
+[2016-09-28 07:12:39,426] DEBUG websocket.send!JFJlFUPBMyjm-room-2.2b4327fe-eb2e-483e-89ec-f77d06662d29: broadcasting: {"type":"JOINED-ROOM","name":1679546}
+[2016-09-28 09:51:45,293] INFO msg ip: 127.0.0.1, port: 44030
+[2016-09-28 09:52:37,055] INFO msg ip: 127.0.0.1, port: 44228
+[2016-09-28 09:52:49,498] DEBUG adding 2.9fbd89a1-e286-4943-8cef-3a15e2f9e938
+[2016-09-28 09:52:49,502] DEBUG message from: <channels.message.Message object at 0x7f559c17cb10>, room: 2.9fbd89a1-e286-4943-8cef-3a15e2f9e938
+[2016-09-28 09:56:57,715] INFO msg ip: 127.0.0.1, port: 45201
+[2016-09-28 09:58:17,699] INFO msg ip: 127.0.0.1, port: 45488
+[2016-09-28 09:58:31,958] DEBUG adding 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-28 09:58:31,961] DEBUG message from: <channels.message.Message object at 0x7f559c0e4f90>, room: 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-28 10:02:37,654] DEBUG adding 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-28 10:02:37,658] DEBUG message from: <channels.message.Message object at 0x7f559c0e4a50>, room: 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-28 10:03:24,061] DEBUG adding 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-28 10:03:24,064] DEBUG message from: <channels.message.Message object at 0x7f559c10ec10>, room: 2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-28 10:03:59,392] INFO msg ip: 127.0.0.1, port: 46808
+[2016-09-28 10:04:09,970] DEBUG adding 2.77d7939a-e127-4749-8991-a13da97cc9bc
+[2016-09-28 10:04:09,973] DEBUG message from: <channels.message.Message object at 0x7f559c178110>, room: 2.77d7939a-e127-4749-8991-a13da97cc9bc
+[2016-09-28 10:04:46,166] DEBUG adding 2.77d7939a-e127-4749-8991-a13da97cc9bc
+[2016-09-28 10:04:46,169] DEBUG message from: <channels.message.Message object at 0x7f559c0e46d0>, room: 2.77d7939a-e127-4749-8991-a13da97cc9bc
+[2016-09-28 10:05:33,206] INFO msg ip: 127.0.0.1, port: 47198
+[2016-09-28 10:05:48,567] DEBUG adding 2.3cde0b30-6679-474f-9a78-5ee6baa89735
+[2016-09-28 10:05:48,570] DEBUG message from: <channels.message.Message object at 0x7f559c178d50>, room: 2.3cde0b30-6679-474f-9a78-5ee6baa89735
+[2016-09-28 10:07:24,046] DEBUG adding 2.3cde0b30-6679-474f-9a78-5ee6baa89735
+[2016-09-28 10:07:24,050] DEBUG message from: <channels.message.Message object at 0x7f559c0e1810>, room: 2.3cde0b30-6679-474f-9a78-5ee6baa89735
+[2016-09-28 10:07:58,306] INFO msg ip: 127.0.0.1, port: 47753
+[2016-09-28 10:08:11,308] DEBUG disconnecting websocket.send!PrMzIDDjbUeH-room-2.9fbd89a1-e286-4943-8cef-3a15e2f9e938
+[2016-09-28 10:08:14,355] DEBUG adding 2.78e7b8a2-482f-4ac2-9c7a-670e07bee662
+[2016-09-28 10:08:14,359] DEBUG message from: <channels.message.Message object at 0x7f559c1ae790>, room: 2.78e7b8a2-482f-4ac2-9c7a-670e07bee662
+[2016-09-28 11:17:10,731] DEBUG adding 2.9fbd89a1-e286-4943-8cef-3a15e2f9e938
+[2016-09-28 11:17:10,734] DEBUG message from: <channels.message.Message object at 0x7f559c0e1510>, room: 2.9fbd89a1-e286-4943-8cef-3a15e2f9e938
+[2016-09-28 12:23:46,998] DEBUG disconnecting websocket.send!DoMsNwgFdLaj-room-2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-28 12:24:29,249] INFO msg ip: 127.0.0.1, port: 49809
+[2016-09-28 13:44:33,217] INFO msg ip: 127.0.0.1, port: 39330
+[2016-09-28 13:46:49,940] INFO msg ip: 127.0.0.1, port: 39855
+[2016-09-28 13:49:39,324] INFO msg ip: 127.0.0.1, port: 40499
+[2016-09-28 13:51:11,446] DEBUG disconnecting websocket.send!OCDAdIyuTwFR-room-2.9fbd89a1-e286-4943-8cef-3a15e2f9e938
+[2016-09-28 13:51:11,457] DEBUG disconnecting websocket.send!QfGXfofMIdQz-room-2.77d7939a-e127-4749-8991-a13da97cc9bc
+[2016-09-28 13:51:11,883] DEBUG disconnecting websocket.send!UIsFJWXbvHSv-room-2.78e7b8a2-482f-4ac2-9c7a-670e07bee662
+[2016-09-28 13:51:14,262] INFO msg ip: 127.0.0.1, port: 40862
+[2016-09-28 13:51:21,353] DEBUG disconnecting websocket.send!JFJlFUPBMyjm-room-2.2b4327fe-eb2e-483e-89ec-f77d06662d29
+[2016-09-28 13:51:23,932] DEBUG disconnecting websocket.send!VYRHnvbeZWLu-room-2.77d7939a-e127-4749-8991-a13da97cc9bc
+[2016-09-28 13:51:41,447] DEBUG disconnecting websocket.send!EtvrMnggNEEo-room-2.b2d93cb9-802e-4d42-b7c6-7565289e2b77
+[2016-09-28 13:51:41,454] DEBUG disconnecting websocket.send!AkxfbMQDMPPS-room-2.3cde0b30-6679-474f-9a78-5ee6baa89735
+[2016-09-28 13:52:02,339] DEBUG disconnecting websocket.send!nMcqRWGFPZbX-room-2.3cde0b30-6679-474f-9a78-5ee6baa89735
+[2016-09-28 13:52:11,437] DEBUG disconnecting websocket.send!GJjZyUVKWrCW-room-2.b2d93cb9-802e-4d42-b7c6-7565289e2b77

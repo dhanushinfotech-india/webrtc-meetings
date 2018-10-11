@@ -1,0 +1,49 @@
+DEBUG:root:sample
+DEBUG:websocket:using room_url: ^meeting/(?P<room_id>[^/]+)/$
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."session_key" = %s AND "django_session"."expire_date" > %s)' - PARAMS = (u'chn2f17e0baa23a2bc53ba20dcc2fd9f', u'2016-09-08 11:02:31.184770'); args=('chn2f17e0baa23a2bc53ba20dcc2fd9f', u'2016-09-08 11:02:31.184770')
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT (1) AS "a" FROM "django_session" WHERE "django_session"."session_key" = %s LIMIT 1' - PARAMS = (u'chn2f17e0baa23a2bc53ba20dcc2fd9f',); args=('chn2f17e0baa23a2bc53ba20dcc2fd9f',)
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "meeting_room_meeting"."id", "meeting_room_meeting"."created", "meeting_room_meeting"."modified", "meeting_room_meeting"."creator_id", "meeting_room_meeting"."timezone", "meeting_room_meeting"."activation_date", "meeting_room_meeting"."duration", "meeting_room_meeting"."end_date", "meeting_room_meeting"."room_id", "meeting_room_meeting"."description" FROM "meeting_room_meeting" WHERE ("meeting_room_meeting"."room_id" = %s AND ("meeting_room_meeting"."end_date" IS NULL OR "meeting_room_meeting"."end_date" <= %s))' - PARAMS = (u'2.2b1d50dc-c64a-4769-ac5a-9b68021d32f0', u'2016-09-08 11:02:31.211522'); args=(u'2.2b1d50dc-c64a-4769-ac5a-9b68021d32f0', u'2016-09-08 11:02:31.211522')
+DEBUG:websocket:disconnecting websocket.send!AjbPSDDHaUDJ-room-2.2b1d50dc-c64a-4769-ac5a-9b68021d32f0
+DEBUG:django.db.backends:(0.001) QUERY = u'SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."session_key" = %s AND "django_session"."expire_date" > %s)' - PARAMS = (u'chna78e3fc6eeacfc4dcf37ac179933c', u'2016-09-08 11:02:31.221782'); args=('chna78e3fc6eeacfc4dcf37ac179933c', u'2016-09-08 11:02:31.221782')
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT (1) AS "a" FROM "django_session" WHERE "django_session"."session_key" = %s LIMIT 1' - PARAMS = (u'chna78e3fc6eeacfc4dcf37ac179933c',); args=('chna78e3fc6eeacfc4dcf37ac179933c',)
+DEBUG:django.db.backends:(0.000) QUERY = u'SELECT "meeting_room_meeting"."id", "meeting_room_meeting"."created", "meeting_room_meeting"."modified", "meeting_room_meeting"."creator_id", "meeting_room_meeting"."timezone", "meeting_room_meeting"."activation_date", "meeting_room_meeting"."duration", "meeting_room_meeting"."end_date", "meeting_room_meeting"."room_id", "meeting_room_meeting"."description" FROM "meeting_room_meeting" WHERE ("meeting_room_meeting"."room_id" = %s AND ("meeting_room_meeting"."end_date" IS NULL OR "meeting_room_meeting"."end_date" <= %s))' - PARAMS = (u'2.2b1d50dc-c64a-4769-ac5a-9b68021d32f0', u'2016-09-08 11:02:31.224518'); args=(u'2.2b1d50dc-c64a-4769-ac5a-9b68021d32f0', u'2016-09-08 11:02:31.224518')
+DEBUG:websocket:disconnecting websocket.send!HsdnhTCOtVyO-room-2.2b1d50dc-c64a-4769-ac5a-9b68021d32f0
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:root:sample
+DEBUG:websocket:using room_url: ^meeting/(?P<room_id>[^/]+)/$
+DEBUG:service_auth:request from: 127.0.0.1
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:root:sample
+DEBUG:websocket:using room_url: ^meeting/(?P<room_id>[^/]+)/$
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135
+DEBUG:service_auth:request from: 127.0.0.1
+INFO:service_auth:received request: 127.0.0.1, testuser1, hari135

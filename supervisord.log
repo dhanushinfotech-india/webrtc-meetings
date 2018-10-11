@@ -1,0 +1,910 @@
+2018-02-09 19:25:04,650 CRIT Supervisor running as root (no user in config file)
+2018-02-09 19:25:46,162 CRIT Supervisor running as root (no user in config file)
+2018-02-09 19:25:46,210 INFO RPC interface 'supervisor' initialized
+2018-02-09 19:25:46,211 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-02-09 19:25:46,211 INFO daemonizing the supervisord process
+2018-02-09 19:25:46,212 INFO supervisord started with pid 67855
+2018-02-09 19:25:47,214 INFO spawned: 'django-interface-server' with pid 67856
+2018-02-09 19:25:47,216 INFO spawned: 'django-channel-worker' with pid 67857
+2018-02-09 19:25:49,028 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:25:49,028 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:27:51,955 INFO stopped: django-channel-worker (exit status 0)
+2018-02-09 19:27:51,966 INFO stopped: django-interface-server (exit status 0)
+2018-02-09 19:27:53,975 INFO spawned: 'django-interface-server' with pid 67911
+2018-02-09 19:27:53,976 INFO spawned: 'django-channel-worker' with pid 67912
+2018-02-09 19:27:55,845 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:27:55,845 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:30:46,496 INFO exited: django-interface-server (terminated by SIGKILL; not expected)
+2018-02-09 19:30:47,499 INFO spawned: 'django-interface-server' with pid 68001
+2018-02-09 19:30:49,285 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:35:18,291 INFO exited: django-interface-server (terminated by SIGKILL; not expected)
+2018-02-09 19:35:19,293 INFO spawned: 'django-interface-server' with pid 68363
+2018-02-09 19:35:21,077 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:35:34,833 CRIT Supervisor running as root (no user in config file)
+2018-02-09 19:35:46,424 INFO waiting for django-interface-server, django-channel-worker to die
+2018-02-09 19:35:46,487 INFO stopped: django-channel-worker (exit status 0)
+2018-02-09 19:35:46,553 INFO stopped: django-interface-server (exit status 0)
+2018-02-09 19:35:50,660 CRIT Supervisor running as root (no user in config file)
+2018-02-09 19:35:50,670 INFO RPC interface 'supervisor' initialized
+2018-02-09 19:35:50,671 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-02-09 19:35:50,671 INFO daemonizing the supervisord process
+2018-02-09 19:35:50,672 INFO supervisord started with pid 68399
+2018-02-09 19:35:51,674 INFO spawned: 'django-interface-server' with pid 68400
+2018-02-09 19:35:51,676 INFO spawned: 'django-channel-worker' with pid 68401
+2018-02-09 19:35:53,521 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:35:53,522 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:35:58,773 INFO stopped: django-interface-server (exit status 0)
+2018-02-09 19:35:58,779 INFO stopped: django-channel-worker (exit status 0)
+2018-02-09 19:36:00,787 INFO spawned: 'django-interface-server' with pid 68414
+2018-02-09 19:36:00,788 INFO spawned: 'django-channel-worker' with pid 68415
+2018-02-09 19:36:02,689 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:36:02,689 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:45:02,980 INFO exited: django-interface-server (exit status 0; expected)
+2018-02-09 19:45:58,997 CRIT Supervisor running as root (no user in config file)
+2018-02-09 19:47:01,235 INFO waiting for django-channel-worker to die
+2018-02-09 19:47:01,296 INFO stopped: django-channel-worker (exit status 0)
+2018-02-09 19:53:19,262 INFO RPC interface 'supervisor' initialized
+2018-02-09 19:53:19,262 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-02-09 19:53:19,263 INFO daemonizing the supervisord process
+2018-02-09 19:53:19,263 INFO supervisord started with pid 68901
+2018-02-09 19:53:20,265 INFO spawned: 'django-interface-server' with pid 68902
+2018-02-09 19:53:20,266 INFO spawned: 'django-channel-worker' with pid 68903
+2018-02-09 19:53:21,268 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:53:21,268 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 19:53:21,658 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-02-09 19:53:21,665 INFO spawned: 'django-channel-worker' with pid 68908
+2018-02-09 19:53:21,665 INFO exited: django-interface-server (exit status 1; not expected)
+2018-02-09 19:53:22,197 INFO spawned: 'django-interface-server' with pid 68911
+2018-02-09 19:53:22,235 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-02-09 19:53:22,879 INFO exited: django-interface-server (exit status 1; not expected)
+2018-02-09 19:53:23,881 INFO spawned: 'django-interface-server' with pid 68914
+2018-02-09 19:53:23,882 INFO spawned: 'django-channel-worker' with pid 68915
+2018-02-09 19:53:24,535 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-02-09 19:53:24,595 INFO exited: django-interface-server (exit status 1; not expected)
+2018-02-09 19:53:26,598 INFO spawned: 'django-interface-server' with pid 68922
+2018-02-09 19:53:26,600 INFO spawned: 'django-channel-worker' with pid 68923
+2018-02-09 19:53:27,227 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-02-09 19:53:27,293 INFO exited: django-interface-server (exit status 1; not expected)
+2018-02-09 19:53:30,297 INFO spawned: 'django-interface-server' with pid 68932
+2018-02-09 19:53:30,298 INFO spawned: 'django-channel-worker' with pid 68933
+2018-02-09 19:53:30,897 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-02-09 19:53:30,948 INFO gave up: django-channel-worker entered FATAL state, too many start retries too quickly
+2018-02-09 19:53:30,993 INFO exited: django-interface-server (exit status 1; not expected)
+2018-02-09 19:53:31,995 INFO gave up: django-interface-server entered FATAL state, too many start retries too quickly
+2018-02-09 19:59:25,460 INFO RPC interface 'supervisor' initialized
+2018-02-09 19:59:25,461 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-02-09 19:59:25,461 INFO daemonizing the supervisord process
+2018-02-09 19:59:25,462 INFO supervisord started with pid 69067
+2018-02-09 19:59:26,464 INFO spawned: 'django-interface-server' with pid 69068
+2018-02-09 19:59:26,466 INFO spawned: 'django-channel-worker' with pid 69069
+2018-02-09 19:59:27,099 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-02-09 19:59:27,191 INFO exited: django-interface-server (exit status 1; not expected)
+2018-02-09 19:59:28,974 INFO spawned: 'django-interface-server' with pid 69077
+2018-02-09 19:59:28,976 INFO spawned: 'django-channel-worker' with pid 69078
+2018-02-09 19:59:29,592 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-02-09 19:59:29,707 INFO exited: django-interface-server (exit status 1; not expected)
+2018-02-09 19:59:31,710 INFO spawned: 'django-interface-server' with pid 69083
+2018-02-09 19:59:31,711 INFO spawned: 'django-channel-worker' with pid 69084
+2018-02-09 19:59:32,339 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-02-09 19:59:32,410 INFO exited: django-interface-server (exit status 1; not expected)
+2018-02-09 19:59:35,414 INFO spawned: 'django-interface-server' with pid 69090
+2018-02-09 19:59:35,416 INFO spawned: 'django-channel-worker' with pid 69091
+2018-02-09 19:59:36,026 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-02-09 19:59:36,086 INFO gave up: django-channel-worker entered FATAL state, too many start retries too quickly
+2018-02-09 19:59:36,138 INFO exited: django-interface-server (exit status 1; not expected)
+2018-02-09 19:59:37,140 INFO gave up: django-interface-server entered FATAL state, too many start retries too quickly
+2018-02-09 20:01:42,325 INFO RPC interface 'supervisor' initialized
+2018-02-09 20:01:42,325 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-02-09 20:01:42,325 INFO daemonizing the supervisord process
+2018-02-09 20:01:42,326 INFO supervisord started with pid 69182
+2018-02-09 20:01:43,328 INFO spawned: 'django-interface-server' with pid 69183
+2018-02-09 20:01:43,330 INFO spawned: 'django-channel-worker' with pid 69184
+2018-02-09 20:01:45,226 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-02-09 20:01:45,226 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:45:40,189 INFO RPC interface 'supervisor' initialized
+2018-03-22 19:45:40,210 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-22 19:45:40,211 INFO daemonizing the supervisord process
+2018-03-22 19:45:40,212 INFO supervisord started with pid 2529
+2018-03-22 19:45:41,216 INFO spawned: 'django-interface-server' with pid 2533
+2018-03-22 19:45:41,220 INFO spawned: 'django-channel-worker' with pid 2534
+2018-03-22 19:45:42,222 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:45:42,222 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:45:42,342 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:45:42,379 INFO spawned: 'django-interface-server' with pid 2541
+2018-03-22 19:45:43,381 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:45:43,444 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:45:44,447 INFO spawned: 'django-interface-server' with pid 2545
+2018-03-22 19:45:45,450 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:45:45,523 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:45:46,526 INFO spawned: 'django-interface-server' with pid 2554
+2018-03-22 19:45:47,528 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:45:47,611 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:45:48,615 INFO spawned: 'django-interface-server' with pid 2559
+2018-03-22 19:45:49,617 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:45:49,684 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:45:50,609 INFO spawned: 'django-interface-server' with pid 2566
+2018-03-22 19:45:51,618 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:45:51,668 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:45:52,670 INFO spawned: 'django-interface-server' with pid 2571
+2018-03-22 19:45:53,672 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:45:53,740 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:45:54,744 INFO spawned: 'django-interface-server' with pid 2575
+2018-03-22 19:45:55,746 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:45:55,815 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:45:56,819 INFO spawned: 'django-interface-server' with pid 2585
+2018-03-22 19:45:57,821 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:45:57,896 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:45:58,899 INFO spawned: 'django-interface-server' with pid 2610
+2018-03-22 19:45:59,636 INFO waiting for django-interface-server to stop
+2018-03-22 19:45:59,636 INFO waiting for django-channel-worker to stop
+2018-03-22 19:45:59,639 INFO stopped: django-interface-server (terminated by SIGTERM)
+2018-03-22 19:45:59,680 INFO stopped: django-channel-worker (exit status 0)
+2018-03-22 19:46:00,691 INFO spawned: 'django-interface-server' with pid 2615
+2018-03-22 19:46:00,694 INFO spawned: 'django-channel-worker' with pid 2619
+2018-03-22 19:46:01,696 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:01,696 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:01,840 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:01,877 INFO spawned: 'django-interface-server' with pid 2628
+2018-03-22 19:46:02,878 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:02,959 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:03,962 INFO spawned: 'django-interface-server' with pid 2633
+2018-03-22 19:46:04,964 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:05,047 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:06,050 INFO spawned: 'django-interface-server' with pid 2640
+2018-03-22 19:46:07,052 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:07,136 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:08,139 INFO spawned: 'django-interface-server' with pid 2647
+2018-03-22 19:46:09,142 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:09,211 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:10,214 INFO spawned: 'django-interface-server' with pid 2652
+2018-03-22 19:46:11,216 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:11,329 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:12,333 INFO spawned: 'django-interface-server' with pid 2656
+2018-03-22 19:46:13,335 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:13,419 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:14,422 INFO spawned: 'django-interface-server' with pid 2662
+2018-03-22 19:46:15,425 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:15,498 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:16,501 INFO spawned: 'django-interface-server' with pid 2689
+2018-03-22 19:46:17,503 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:17,653 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:18,656 INFO spawned: 'django-interface-server' with pid 2695
+2018-03-22 19:46:19,657 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:19,722 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:20,726 INFO spawned: 'django-interface-server' with pid 2699
+2018-03-22 19:46:21,728 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:21,816 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:22,819 INFO spawned: 'django-interface-server' with pid 2705
+2018-03-22 19:46:23,821 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:23,908 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:24,909 INFO spawned: 'django-interface-server' with pid 2710
+2018-03-22 19:46:25,910 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:25,981 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:26,984 INFO spawned: 'django-interface-server' with pid 2717
+2018-03-22 19:46:27,986 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:28,033 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:29,037 INFO spawned: 'django-interface-server' with pid 2723
+2018-03-22 19:46:30,039 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:30,116 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:31,118 INFO spawned: 'django-interface-server' with pid 2732
+2018-03-22 19:46:32,120 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:32,190 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:33,193 INFO spawned: 'django-interface-server' with pid 2736
+2018-03-22 19:46:34,195 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:34,277 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:35,281 INFO spawned: 'django-interface-server' with pid 2743
+2018-03-22 19:46:36,283 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:36,348 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:37,352 INFO spawned: 'django-interface-server' with pid 2750
+2018-03-22 19:46:38,354 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:38,423 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:39,426 INFO spawned: 'django-interface-server' with pid 2755
+2018-03-22 19:46:40,428 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:40,493 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:41,496 INFO spawned: 'django-interface-server' with pid 2760
+2018-03-22 19:46:42,498 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:42,561 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:43,564 INFO spawned: 'django-interface-server' with pid 2765
+2018-03-22 19:46:44,566 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:44,618 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:45,621 INFO spawned: 'django-interface-server' with pid 2772
+2018-03-22 19:46:46,623 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:46,688 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:47,691 INFO spawned: 'django-interface-server' with pid 2777
+2018-03-22 19:46:48,693 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:48,750 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:49,754 INFO spawned: 'django-interface-server' with pid 2784
+2018-03-22 19:46:50,756 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:50,820 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:51,823 INFO spawned: 'django-interface-server' with pid 2789
+2018-03-22 19:46:52,825 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:52,881 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:53,885 INFO spawned: 'django-interface-server' with pid 2804
+2018-03-22 19:46:54,887 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:54,945 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:55,948 INFO spawned: 'django-interface-server' with pid 2813
+2018-03-22 19:46:56,951 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:57,040 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:46:58,042 INFO spawned: 'django-interface-server' with pid 2819
+2018-03-22 19:46:59,044 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:46:59,139 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:00,142 INFO spawned: 'django-interface-server' with pid 2855
+2018-03-22 19:47:01,144 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:01,264 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:02,267 INFO spawned: 'django-interface-server' with pid 2870
+2018-03-22 19:47:03,268 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:03,352 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:04,356 INFO spawned: 'django-interface-server' with pid 2874
+2018-03-22 19:47:05,358 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:05,445 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:06,448 INFO spawned: 'django-interface-server' with pid 2881
+2018-03-22 19:47:07,450 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:07,528 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:08,532 INFO spawned: 'django-interface-server' with pid 2889
+2018-03-22 19:47:09,534 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:09,607 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:10,610 INFO spawned: 'django-interface-server' with pid 2894
+2018-03-22 19:47:11,612 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:11,693 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:12,697 INFO spawned: 'django-interface-server' with pid 2899
+2018-03-22 19:47:13,699 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:13,753 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:14,756 INFO spawned: 'django-interface-server' with pid 2907
+2018-03-22 19:47:15,758 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:15,845 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:16,849 INFO spawned: 'django-interface-server' with pid 2916
+2018-03-22 19:47:17,851 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:17,923 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:18,926 INFO spawned: 'django-interface-server' with pid 2931
+2018-03-22 19:47:19,928 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:20,007 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:21,011 INFO spawned: 'django-interface-server' with pid 2938
+2018-03-22 19:47:22,012 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:22,101 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:23,105 INFO spawned: 'django-interface-server' with pid 2984
+2018-03-22 19:47:24,107 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:24,183 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:25,190 INFO spawned: 'django-interface-server' with pid 2991
+2018-03-22 19:47:26,192 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:26,346 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:27,350 INFO spawned: 'django-interface-server' with pid 2998
+2018-03-22 19:47:28,351 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:28,449 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:29,453 INFO spawned: 'django-interface-server' with pid 3002
+2018-03-22 19:47:30,455 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:30,563 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:31,566 INFO spawned: 'django-interface-server' with pid 3009
+2018-03-22 19:47:32,568 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:32,644 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:33,646 INFO spawned: 'django-interface-server' with pid 3030
+2018-03-22 19:47:34,648 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:34,738 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:35,741 INFO spawned: 'django-interface-server' with pid 3045
+2018-03-22 19:47:36,743 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:36,869 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:37,872 INFO spawned: 'django-interface-server' with pid 3118
+2018-03-22 19:47:38,874 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:38,933 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:39,937 INFO spawned: 'django-interface-server' with pid 3154
+2018-03-22 19:47:40,939 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:41,068 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:42,071 INFO spawned: 'django-interface-server' with pid 3158
+2018-03-22 19:47:43,073 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:43,207 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:44,210 INFO spawned: 'django-interface-server' with pid 3205
+2018-03-22 19:47:45,212 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:45,298 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:46,301 INFO spawned: 'django-interface-server' with pid 3213
+2018-03-22 19:47:47,303 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:47,456 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:48,459 INFO spawned: 'django-interface-server' with pid 3222
+2018-03-22 19:47:49,462 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:49,533 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:50,536 INFO spawned: 'django-interface-server' with pid 3229
+2018-03-22 19:47:51,538 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:51,663 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:52,668 INFO spawned: 'django-interface-server' with pid 3250
+2018-03-22 19:47:53,670 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:53,770 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:54,774 INFO spawned: 'django-interface-server' with pid 3254
+2018-03-22 19:47:55,776 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:55,899 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:56,902 INFO spawned: 'django-interface-server' with pid 3273
+2018-03-22 19:47:57,904 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:47:57,982 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:47:58,986 INFO spawned: 'django-interface-server' with pid 3288
+2018-03-22 19:47:59,988 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:00,040 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:01,044 INFO spawned: 'django-interface-server' with pid 3294
+2018-03-22 19:48:02,046 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:02,122 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:03,126 INFO spawned: 'django-interface-server' with pid 3300
+2018-03-22 19:48:04,128 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:04,189 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:05,193 INFO spawned: 'django-interface-server' with pid 3305
+2018-03-22 19:48:06,195 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:06,257 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:07,261 INFO spawned: 'django-interface-server' with pid 3322
+2018-03-22 19:48:08,263 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:08,331 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:09,335 INFO spawned: 'django-interface-server' with pid 3343
+2018-03-22 19:48:10,338 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:10,453 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:11,457 INFO spawned: 'django-interface-server' with pid 3355
+2018-03-22 19:48:12,460 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:12,515 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:13,519 INFO spawned: 'django-interface-server' with pid 3363
+2018-03-22 19:48:14,521 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:14,601 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:15,604 INFO spawned: 'django-interface-server' with pid 3372
+2018-03-22 19:48:16,606 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:16,713 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:17,717 INFO spawned: 'django-interface-server' with pid 3383
+2018-03-22 19:48:18,719 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:18,821 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:19,825 INFO spawned: 'django-interface-server' with pid 3392
+2018-03-22 19:48:20,827 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:20,928 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:21,930 INFO spawned: 'django-interface-server' with pid 3419
+2018-03-22 19:48:22,932 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:23,005 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:24,009 INFO spawned: 'django-interface-server' with pid 3423
+2018-03-22 19:48:25,011 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:25,074 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:26,077 INFO spawned: 'django-interface-server' with pid 3440
+2018-03-22 19:48:27,079 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:27,138 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:28,141 INFO spawned: 'django-interface-server' with pid 3447
+2018-03-22 19:48:29,143 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:29,191 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:30,193 INFO spawned: 'django-interface-server' with pid 3457
+2018-03-22 19:48:31,195 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:31,264 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:32,267 INFO spawned: 'django-interface-server' with pid 3461
+2018-03-22 19:48:33,268 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:33,318 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:34,321 INFO spawned: 'django-interface-server' with pid 3518
+2018-03-22 19:48:35,323 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:35,375 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:36,379 INFO spawned: 'django-interface-server' with pid 3527
+2018-03-22 19:48:37,382 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:37,445 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:38,448 INFO spawned: 'django-interface-server' with pid 3536
+2018-03-22 19:48:39,450 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:39,596 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:40,599 INFO spawned: 'django-interface-server' with pid 3545
+2018-03-22 19:48:41,600 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:41,663 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:42,666 INFO spawned: 'django-interface-server' with pid 3553
+2018-03-22 19:48:43,668 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:43,766 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:44,770 INFO spawned: 'django-interface-server' with pid 3559
+2018-03-22 19:48:45,772 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:45,838 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:46,840 INFO spawned: 'django-interface-server' with pid 3573
+2018-03-22 19:48:47,842 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:47,965 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:48,968 INFO spawned: 'django-interface-server' with pid 3578
+2018-03-22 19:48:49,970 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:50,069 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:51,072 INFO spawned: 'django-interface-server' with pid 3591
+2018-03-22 19:48:52,074 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:52,138 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:53,142 INFO spawned: 'django-interface-server' with pid 3599
+2018-03-22 19:48:54,143 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:54,208 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:55,211 INFO spawned: 'django-interface-server' with pid 3605
+2018-03-22 19:48:56,214 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:56,284 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:57,288 INFO spawned: 'django-interface-server' with pid 3616
+2018-03-22 19:48:58,290 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:48:58,343 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:48:59,346 INFO spawned: 'django-interface-server' with pid 3623
+2018-03-22 19:49:00,348 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:00,417 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:01,420 INFO spawned: 'django-interface-server' with pid 3634
+2018-03-22 19:49:02,422 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:02,495 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:03,498 INFO spawned: 'django-interface-server' with pid 3639
+2018-03-22 19:49:04,500 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:04,571 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:05,574 INFO spawned: 'django-interface-server' with pid 3657
+2018-03-22 19:49:06,577 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:06,635 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:07,638 INFO spawned: 'django-interface-server' with pid 3675
+2018-03-22 19:49:08,640 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:08,701 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:09,704 INFO spawned: 'django-interface-server' with pid 3698
+2018-03-22 19:49:10,706 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:10,770 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:11,774 INFO spawned: 'django-interface-server' with pid 3713
+2018-03-22 19:49:12,776 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:12,848 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:13,850 INFO spawned: 'django-interface-server' with pid 3721
+2018-03-22 19:49:14,851 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:14,919 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:15,922 INFO spawned: 'django-interface-server' with pid 3728
+2018-03-22 19:49:16,924 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:16,990 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:17,993 INFO spawned: 'django-interface-server' with pid 3735
+2018-03-22 19:49:18,995 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:19,053 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:20,057 INFO spawned: 'django-interface-server' with pid 3744
+2018-03-22 19:49:21,059 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:21,175 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:22,178 INFO spawned: 'django-interface-server' with pid 3752
+2018-03-22 19:49:23,180 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:23,253 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:24,257 INFO spawned: 'django-interface-server' with pid 3756
+2018-03-22 19:49:25,259 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:25,320 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:26,323 INFO spawned: 'django-interface-server' with pid 3767
+2018-03-22 19:49:27,325 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:27,374 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:28,378 INFO spawned: 'django-interface-server' with pid 3779
+2018-03-22 19:49:29,381 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:29,431 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:30,433 INFO spawned: 'django-interface-server' with pid 3785
+2018-03-22 19:49:31,435 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:31,505 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:32,508 INFO spawned: 'django-interface-server' with pid 3796
+2018-03-22 19:49:33,510 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:33,598 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:34,602 INFO spawned: 'django-interface-server' with pid 3812
+2018-03-22 19:49:35,604 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:35,686 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:36,690 INFO spawned: 'django-interface-server' with pid 3819
+2018-03-22 19:49:37,691 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:37,772 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:38,775 INFO spawned: 'django-interface-server' with pid 3826
+2018-03-22 19:49:39,777 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:39,852 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:40,856 INFO spawned: 'django-interface-server' with pid 3833
+2018-03-22 19:49:41,858 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:41,990 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:42,993 INFO spawned: 'django-interface-server' with pid 3838
+2018-03-22 19:49:43,995 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:44,055 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:45,058 INFO spawned: 'django-interface-server' with pid 3842
+2018-03-22 19:49:46,060 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:46,192 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:47,195 INFO spawned: 'django-interface-server' with pid 3854
+2018-03-22 19:49:48,197 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:48,259 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:49,262 INFO spawned: 'django-interface-server' with pid 3859
+2018-03-22 19:49:50,264 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:50,388 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:51,390 INFO spawned: 'django-interface-server' with pid 3873
+2018-03-22 19:49:52,392 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:52,465 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:53,469 INFO spawned: 'django-interface-server' with pid 3890
+2018-03-22 19:49:54,471 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:54,552 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:55,555 INFO spawned: 'django-interface-server' with pid 3912
+2018-03-22 19:49:56,558 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:56,619 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:57,622 INFO spawned: 'django-interface-server' with pid 3922
+2018-03-22 19:49:58,624 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:49:58,677 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:49:59,681 INFO spawned: 'django-interface-server' with pid 3927
+2018-03-22 19:50:00,683 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:00,744 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:01,748 INFO spawned: 'django-interface-server' with pid 3932
+2018-03-22 19:50:02,750 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:02,813 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:03,817 INFO spawned: 'django-interface-server' with pid 3948
+2018-03-22 19:50:04,819 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:04,875 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:05,879 INFO spawned: 'django-interface-server' with pid 3961
+2018-03-22 19:50:06,881 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:06,942 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:07,946 INFO spawned: 'django-interface-server' with pid 3966
+2018-03-22 19:50:08,948 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:09,009 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:10,012 INFO spawned: 'django-interface-server' with pid 3971
+2018-03-22 19:50:11,015 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:11,085 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:12,089 INFO spawned: 'django-interface-server' with pid 3975
+2018-03-22 19:50:13,091 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:13,139 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:14,143 INFO spawned: 'django-interface-server' with pid 3981
+2018-03-22 19:50:15,145 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:15,231 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:16,234 INFO spawned: 'django-interface-server' with pid 3990
+2018-03-22 19:50:17,236 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:17,387 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:18,391 INFO spawned: 'django-interface-server' with pid 3997
+2018-03-22 19:50:19,393 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:19,495 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:20,498 INFO spawned: 'django-interface-server' with pid 4001
+2018-03-22 19:50:21,500 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:21,561 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:22,565 INFO spawned: 'django-interface-server' with pid 4006
+2018-03-22 19:50:23,567 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:23,636 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:24,640 INFO spawned: 'django-interface-server' with pid 4012
+2018-03-22 19:50:25,496 INFO waiting for django-interface-server, django-channel-worker to die
+2018-03-22 19:50:25,548 INFO stopped: django-channel-worker (exit status 0)
+2018-03-22 19:50:25,551 INFO stopped: django-interface-server (terminated by SIGTERM)
+2018-03-22 19:50:35,254 INFO RPC interface 'supervisor' initialized
+2018-03-22 19:50:35,254 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-22 19:50:35,255 INFO daemonizing the supervisord process
+2018-03-22 19:50:35,255 INFO supervisord started with pid 4086
+2018-03-22 19:50:36,259 INFO spawned: 'django-interface-server' with pid 4089
+2018-03-22 19:50:36,262 INFO spawned: 'django-channel-worker' with pid 4090
+2018-03-22 19:50:37,264 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:37,264 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:37,453 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:38,457 INFO spawned: 'django-interface-server' with pid 4097
+2018-03-22 19:50:39,459 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:39,523 INFO exited: django-interface-server (exit status 1; not expected)
+2018-03-22 19:50:40,211 INFO spawned: 'django-interface-server' with pid 4103
+2018-03-22 19:50:40,214 INFO waiting for django-interface-server, django-channel-worker to die
+2018-03-22 19:50:40,265 INFO stopped: django-channel-worker (exit status 0)
+2018-03-22 19:50:40,266 INFO stopped: django-interface-server (terminated by SIGTERM)
+2018-03-22 19:50:49,700 INFO RPC interface 'supervisor' initialized
+2018-03-22 19:50:49,700 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-22 19:50:49,701 INFO daemonizing the supervisord process
+2018-03-22 19:50:49,702 INFO supervisord started with pid 4123
+2018-03-22 19:50:50,705 INFO spawned: 'django-interface-server' with pid 4126
+2018-03-22 19:50:50,708 INFO spawned: 'django-channel-worker' with pid 4127
+2018-03-22 19:50:51,710 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:51,711 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:50:57,168 INFO waiting for django-interface-server, django-channel-worker to die
+2018-03-22 19:50:57,213 INFO stopped: django-channel-worker (exit status 0)
+2018-03-22 19:50:57,254 INFO stopped: django-interface-server (exit status 0)
+2018-03-22 19:50:58,442 INFO RPC interface 'supervisor' initialized
+2018-03-22 19:50:58,442 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-22 19:50:58,443 INFO daemonizing the supervisord process
+2018-03-22 19:50:58,444 INFO supervisord started with pid 4153
+2018-03-22 19:50:59,447 INFO spawned: 'django-interface-server' with pid 4154
+2018-03-22 19:50:59,450 INFO spawned: 'django-channel-worker' with pid 4155
+2018-03-22 19:51:00,452 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 19:51:00,452 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-22 23:13:08,491 INFO exited: django-channel-worker (terminated by SIGHUP; not expected)
+2018-03-22 23:13:08,491 WARN received SIGHUP indicating restart request
+2018-03-22 23:13:08,491 INFO waiting for django-interface-server to die
+2018-03-22 23:13:08,492 WARN received SIGTERM indicating exit request
+2018-03-22 23:13:08,572 INFO stopped: django-interface-server (terminated by SIGHUP)
+2018-03-23 12:59:16,869 INFO RPC interface 'supervisor' initialized
+2018-03-23 12:59:16,913 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-23 12:59:16,914 INFO daemonizing the supervisord process
+2018-03-23 12:59:16,936 INFO supervisord started with pid 8686
+2018-03-23 12:59:17,939 INFO spawned: 'django-interface-server' with pid 8687
+2018-03-23 12:59:17,943 INFO spawned: 'django-channel-worker' with pid 8688
+2018-03-23 12:59:18,944 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 12:59:18,945 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 12:59:25,532 INFO waiting for django-interface-server to stop
+2018-03-23 12:59:25,532 INFO waiting for django-channel-worker to stop
+2018-03-23 12:59:25,534 INFO stopped: django-channel-worker (terminated by SIGTERM)
+2018-03-23 12:59:25,535 INFO stopped: django-interface-server (terminated by SIGTERM)
+2018-03-23 12:59:26,545 INFO spawned: 'django-interface-server' with pid 8697
+2018-03-23 12:59:26,548 INFO spawned: 'django-channel-worker' with pid 8698
+2018-03-23 12:59:27,550 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 12:59:27,551 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:08:02,344 INFO waiting for django-interface-server, django-channel-worker to die
+2018-03-23 15:08:02,389 INFO stopped: django-channel-worker (exit status 0)
+2018-03-23 15:08:02,429 INFO stopped: django-interface-server (exit status 0)
+2018-03-23 15:08:06,227 INFO RPC interface 'supervisor' initialized
+2018-03-23 15:08:06,227 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-23 15:08:06,227 INFO daemonizing the supervisord process
+2018-03-23 15:08:06,228 INFO supervisord started with pid 14922
+2018-03-23 15:08:07,232 INFO spawned: 'django-interface-server' with pid 14929
+2018-03-23 15:08:07,236 INFO spawned: 'django-channel-worker' with pid 14930
+2018-03-23 15:08:08,238 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:08:08,238 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:09:04,409 INFO waiting for django-interface-server, django-channel-worker to die
+2018-03-23 15:09:04,455 INFO stopped: django-channel-worker (exit status 0)
+2018-03-23 15:09:04,496 INFO stopped: django-interface-server (exit status 0)
+2018-03-23 15:09:05,842 INFO RPC interface 'supervisor' initialized
+2018-03-23 15:09:05,842 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-23 15:09:05,843 INFO daemonizing the supervisord process
+2018-03-23 15:09:05,843 INFO supervisord started with pid 15160
+2018-03-23 15:09:06,847 INFO spawned: 'django-interface-server' with pid 15161
+2018-03-23 15:09:06,851 INFO spawned: 'django-channel-worker' with pid 15162
+2018-03-23 15:09:07,852 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:09:07,852 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:09:18,968 INFO waiting for django-interface-server to stop
+2018-03-23 15:09:18,969 INFO waiting for django-channel-worker to stop
+2018-03-23 15:09:19,016 INFO stopped: django-interface-server (exit status 0)
+2018-03-23 15:09:19,016 INFO stopped: django-channel-worker (exit status 0)
+2018-03-23 15:09:20,024 INFO spawned: 'django-interface-server' with pid 15190
+2018-03-23 15:09:20,026 INFO spawned: 'django-channel-worker' with pid 15191
+2018-03-23 15:09:21,028 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:09:21,028 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:25:37,067 INFO waiting for django-interface-server, django-channel-worker to die
+2018-03-23 15:25:37,120 INFO stopped: django-channel-worker (exit status 0)
+2018-03-23 15:25:37,176 INFO stopped: django-interface-server (exit status 0)
+2018-03-23 15:25:41,577 INFO RPC interface 'supervisor' initialized
+2018-03-23 15:25:41,577 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-23 15:25:41,578 INFO daemonizing the supervisord process
+2018-03-23 15:25:41,578 INFO supervisord started with pid 17385
+2018-03-23 15:25:42,582 INFO spawned: 'django-interface-server' with pid 17388
+2018-03-23 15:25:42,586 INFO spawned: 'django-channel-worker' with pid 17389
+2018-03-23 15:25:43,588 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:25:43,588 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:25:45,715 INFO waiting for django-interface-server to stop
+2018-03-23 15:25:45,715 INFO waiting for django-channel-worker to stop
+2018-03-23 15:25:45,757 INFO stopped: django-channel-worker (exit status 0)
+2018-03-23 15:25:45,760 INFO stopped: django-interface-server (exit status 0)
+2018-03-23 15:25:46,771 INFO spawned: 'django-interface-server' with pid 17404
+2018-03-23 15:25:46,774 INFO spawned: 'django-channel-worker' with pid 17405
+2018-03-23 15:25:47,776 INFO success: django-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:25:47,777 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:29:43,814 INFO waiting for django-interface-server, django-channel-worker to die
+2018-03-23 15:29:43,860 INFO stopped: django-channel-worker (exit status 0)
+2018-03-23 15:29:43,902 INFO stopped: django-interface-server (exit status 0)
+2018-03-23 15:29:45,800 INFO RPC interface 'supervisor' initialized
+2018-03-23 15:29:45,800 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-23 15:29:45,801 INFO daemonizing the supervisord process
+2018-03-23 15:29:45,801 INFO supervisord started with pid 17703
+2018-03-23 15:29:46,804 INFO spawned: 'wm-meetings-interface-server' with pid 17704
+2018-03-23 15:29:46,805 INFO spawned: 'django-channel-worker' with pid 17705
+2018-03-23 15:29:47,807 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:29:47,807 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:29:50,079 INFO waiting for wm-meetings-interface-server to stop
+2018-03-23 15:29:50,079 INFO waiting for django-channel-worker to stop
+2018-03-23 15:29:50,127 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-23 15:29:50,127 INFO stopped: django-channel-worker (exit status 0)
+2018-03-23 15:29:51,137 INFO spawned: 'wm-meetings-interface-server' with pid 17722
+2018-03-23 15:29:51,139 INFO spawned: 'django-channel-worker' with pid 17723
+2018-03-23 15:29:52,142 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 15:29:52,142 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 19:44:18,223 INFO waiting for wm-meetings-interface-server, django-channel-worker to die
+2018-03-23 19:44:18,265 INFO stopped: django-channel-worker (exit status 0)
+2018-03-23 19:44:18,305 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-23 19:44:21,390 INFO RPC interface 'supervisor' initialized
+2018-03-23 19:44:21,390 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-23 19:44:21,391 INFO daemonizing the supervisord process
+2018-03-23 19:44:21,391 INFO supervisord started with pid 25454
+2018-03-23 19:44:22,395 INFO spawned: 'wm-meetings-interface-server' with pid 25455
+2018-03-23 19:44:22,398 INFO spawned: 'django-channel-worker' with pid 25456
+2018-03-23 19:44:22,530 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 19:44:23,164 INFO exited: wm-meetings-interface-server (exit status 1; not expected)
+2018-03-23 19:44:24,168 INFO spawned: 'wm-meetings-interface-server' with pid 25460
+2018-03-23 19:44:24,171 INFO spawned: 'django-channel-worker' with pid 25461
+2018-03-23 19:44:24,252 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 19:44:24,844 INFO exited: wm-meetings-interface-server (exit status 1; not expected)
+2018-03-23 19:44:25,684 INFO spawned: 'wm-meetings-interface-server' with pid 25470
+2018-03-23 19:44:25,686 INFO spawned: 'django-channel-worker' with pid 25471
+2018-03-23 19:44:25,781 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 19:44:26,366 INFO exited: wm-meetings-interface-server (exit status 1; not expected)
+2018-03-23 19:44:29,375 INFO spawned: 'wm-meetings-interface-server' with pid 25477
+2018-03-23 19:44:29,377 INFO spawned: 'django-channel-worker' with pid 25478
+2018-03-23 19:44:29,461 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 19:44:30,048 INFO gave up: django-channel-worker entered FATAL state, too many start retries too quickly
+2018-03-23 19:44:30,075 INFO exited: wm-meetings-interface-server (exit status 1; not expected)
+2018-03-23 19:44:31,076 INFO gave up: wm-meetings-interface-server entered FATAL state, too many start retries too quickly
+2018-03-23 19:46:09,181 INFO RPC interface 'supervisor' initialized
+2018-03-23 19:46:09,181 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-23 19:46:09,182 INFO daemonizing the supervisord process
+2018-03-23 19:46:09,182 INFO supervisord started with pid 25704
+2018-03-23 19:46:10,187 INFO spawned: 'wm-meetings-interface-server' with pid 25707
+2018-03-23 19:46:10,189 INFO spawned: 'django-channel-worker' with pid 25708
+2018-03-23 19:46:11,191 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 19:46:11,191 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 19:46:15,169 INFO waiting for wm-meetings-interface-server to stop
+2018-03-23 19:46:15,169 INFO waiting for django-channel-worker to stop
+2018-03-23 19:46:15,217 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-23 19:46:15,218 INFO stopped: django-channel-worker (exit status 0)
+2018-03-23 19:46:16,230 INFO spawned: 'wm-meetings-interface-server' with pid 25720
+2018-03-23 19:46:16,233 INFO spawned: 'django-channel-worker' with pid 25721
+2018-03-23 19:46:17,235 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 19:46:17,235 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 19:51:13,874 INFO waiting for wm-meetings-interface-server to stop
+2018-03-23 19:51:13,874 INFO waiting for django-channel-worker to stop
+2018-03-23 19:51:13,918 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-23 19:51:13,920 INFO stopped: django-channel-worker (exit status 0)
+2018-03-23 19:51:14,930 INFO spawned: 'wm-meetings-interface-server' with pid 26473
+2018-03-23 19:51:14,935 INFO spawned: 'django-channel-worker' with pid 26474
+2018-03-23 19:51:15,937 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 19:51:15,938 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:50:11,674 WARN received SIGTERM indicating exit request
+2018-03-23 22:50:11,675 INFO waiting for wm-meetings-interface-server, django-channel-worker to die
+2018-03-23 22:50:11,682 WARN received SIGHUP indicating restart request
+2018-03-23 22:50:11,690 INFO stopped: django-channel-worker (terminated by SIGHUP)
+2018-03-23 22:50:11,777 INFO stopped: wm-meetings-interface-server (terminated by SIGHUP)
+2018-03-23 22:50:13,080 INFO RPC interface 'supervisor' initialized
+2018-03-23 22:50:13,080 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-23 22:50:13,080 INFO supervisord started with pid 25704
+2018-03-23 22:50:14,083 INFO spawned: 'wm-meetings-interface-server' with pid 20462
+2018-03-23 22:50:14,086 INFO spawned: 'django-channel-worker' with pid 20463
+2018-03-23 22:50:15,088 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:50:15,088 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:50:38,044 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:50:39,048 INFO spawned: 'django-channel-worker' with pid 20778
+2018-03-23 22:50:40,048 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:50:41,876 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:50:42,878 INFO spawned: 'django-channel-worker' with pid 20800
+2018-03-23 22:50:43,880 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:50:44,811 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:50:45,814 INFO spawned: 'django-channel-worker' with pid 20820
+2018-03-23 22:50:46,816 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:50:47,933 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:50:48,936 INFO spawned: 'django-channel-worker' with pid 20841
+2018-03-23 22:50:49,938 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:50:51,115 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:50:52,118 INFO spawned: 'django-channel-worker' with pid 20863
+2018-03-23 22:50:53,120 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:50:54,168 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:50:55,171 INFO spawned: 'django-channel-worker' with pid 20884
+2018-03-23 22:50:56,172 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:50:57,338 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:50:58,341 INFO spawned: 'django-channel-worker' with pid 20905
+2018-03-23 22:50:59,343 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:00,495 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:01,498 INFO spawned: 'django-channel-worker' with pid 20927
+2018-03-23 22:51:02,499 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:03,562 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:04,565 INFO spawned: 'django-channel-worker' with pid 20947
+2018-03-23 22:51:05,566 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:06,601 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:07,604 INFO spawned: 'django-channel-worker' with pid 20968
+2018-03-23 22:51:08,604 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:09,616 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:10,618 INFO spawned: 'django-channel-worker' with pid 20989
+2018-03-23 22:51:11,620 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:12,658 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:13,661 INFO spawned: 'django-channel-worker' with pid 21008
+2018-03-23 22:51:14,663 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:15,643 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:16,646 INFO spawned: 'django-channel-worker' with pid 21026
+2018-03-23 22:51:17,647 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:18,827 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:19,830 INFO spawned: 'django-channel-worker' with pid 21049
+2018-03-23 22:51:20,832 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:21,833 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:22,836 INFO spawned: 'django-channel-worker' with pid 21070
+2018-03-23 22:51:23,844 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:24,845 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:25,848 INFO spawned: 'django-channel-worker' with pid 21089
+2018-03-23 22:51:26,848 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:27,930 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:28,933 INFO spawned: 'django-channel-worker' with pid 21109
+2018-03-23 22:51:29,934 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:30,933 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:31,936 INFO spawned: 'django-channel-worker' with pid 21129
+2018-03-23 22:51:32,938 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:34,106 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:35,110 INFO spawned: 'django-channel-worker' with pid 21150
+2018-03-23 22:51:36,111 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:37,267 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:38,270 INFO spawned: 'django-channel-worker' with pid 21171
+2018-03-23 22:51:39,271 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-23 22:51:40,461 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-23 22:51:41,464 INFO spawned: 'django-channel-worker' with pid 21191
+2018-03-27 11:27:13,941 INFO RPC interface 'supervisor' initialized
+2018-03-27 11:27:13,983 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-27 11:27:13,985 INFO daemonizing the supervisord process
+2018-03-27 11:27:13,997 INFO supervisord started with pid 6720
+2018-03-27 11:27:15,001 INFO spawned: 'wm-meetings-interface-server' with pid 6721
+2018-03-27 11:27:15,004 INFO spawned: 'django-channel-worker' with pid 6722
+2018-03-27 11:27:16,006 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 11:27:16,007 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 11:27:28,550 INFO waiting for wm-meetings-interface-server to stop
+2018-03-27 11:27:28,550 INFO waiting for django-channel-worker to stop
+2018-03-27 11:27:28,595 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-27 11:27:28,595 INFO stopped: django-channel-worker (exit status 0)
+2018-03-27 11:27:29,606 INFO spawned: 'wm-meetings-interface-server' with pid 6738
+2018-03-27 11:27:29,608 INFO spawned: 'django-channel-worker' with pid 6739
+2018-03-27 11:27:30,611 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 11:27:30,611 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 11:48:32,223 INFO waiting for wm-meetings-interface-server to stop
+2018-03-27 11:48:32,223 INFO waiting for django-channel-worker to stop
+2018-03-27 11:48:32,270 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-27 11:48:32,271 INFO stopped: django-channel-worker (exit status 0)
+2018-03-27 11:48:33,282 INFO spawned: 'wm-meetings-interface-server' with pid 8256
+2018-03-27 11:48:33,285 INFO spawned: 'django-channel-worker' with pid 8257
+2018-03-27 11:48:34,287 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 11:48:34,287 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 12:19:05,228 INFO waiting for wm-meetings-interface-server to stop
+2018-03-27 12:19:05,229 INFO waiting for django-channel-worker to stop
+2018-03-27 12:19:05,421 INFO stopped: django-channel-worker (exit status 0)
+2018-03-27 12:19:05,430 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-27 12:19:06,439 INFO spawned: 'wm-meetings-interface-server' with pid 10439
+2018-03-27 12:19:06,442 INFO spawned: 'django-channel-worker' with pid 10440
+2018-03-27 12:19:07,444 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 12:19:07,444 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 12:38:49,973 INFO waiting for wm-meetings-interface-server to stop
+2018-03-27 12:38:49,974 INFO waiting for django-channel-worker to stop
+2018-03-27 12:38:50,017 INFO stopped: django-channel-worker (exit status 0)
+2018-03-27 12:38:50,019 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-27 12:38:51,030 INFO spawned: 'wm-meetings-interface-server' with pid 11909
+2018-03-27 12:38:51,034 INFO spawned: 'django-channel-worker' with pid 11910
+2018-03-27 12:38:52,036 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 12:38:52,036 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 12:54:37,636 INFO waiting for wm-meetings-interface-server to stop
+2018-03-27 12:54:37,637 INFO waiting for django-channel-worker to stop
+2018-03-27 12:54:37,727 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-27 12:54:37,731 INFO stopped: django-channel-worker (exit status 0)
+2018-03-27 12:54:38,741 INFO spawned: 'wm-meetings-interface-server' with pid 13541
+2018-03-27 12:54:38,744 INFO spawned: 'django-channel-worker' with pid 13542
+2018-03-27 12:54:39,747 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 12:54:39,748 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 12:58:22,798 INFO waiting for wm-meetings-interface-server to stop
+2018-03-27 12:58:22,798 INFO waiting for django-channel-worker to stop
+2018-03-27 12:58:22,852 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-27 12:58:22,852 INFO stopped: django-channel-worker (exit status 0)
+2018-03-27 12:58:22,857 INFO spawned: 'wm-meetings-interface-server' with pid 13734
+2018-03-27 12:58:22,859 INFO spawned: 'django-channel-worker' with pid 13735
+2018-03-27 12:58:23,862 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 12:58:23,862 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 13:50:59,992 INFO waiting for wm-meetings-interface-server to stop
+2018-03-27 13:50:59,992 INFO waiting for django-channel-worker to stop
+2018-03-27 13:51:00,069 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-27 13:51:00,072 INFO stopped: django-channel-worker (exit status 0)
+2018-03-27 13:51:01,083 INFO spawned: 'wm-meetings-interface-server' with pid 17852
+2018-03-27 13:51:01,086 INFO spawned: 'django-channel-worker' with pid 17853
+2018-03-27 13:51:02,088 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 13:51:02,088 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 13:53:27,701 INFO waiting for wm-meetings-interface-server to stop
+2018-03-27 13:53:27,701 INFO waiting for django-channel-worker to stop
+2018-03-27 13:53:28,043 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-27 13:53:28,065 INFO stopped: django-channel-worker (exit status 0)
+2018-03-27 13:53:29,078 INFO spawned: 'wm-meetings-interface-server' with pid 18107
+2018-03-27 13:53:29,087 INFO spawned: 'django-channel-worker' with pid 18108
+2018-03-27 13:53:30,091 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 13:53:30,091 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 18:18:07,584 INFO waiting for wm-meetings-interface-server to stop
+2018-03-27 18:18:07,584 INFO waiting for django-channel-worker to stop
+2018-03-27 18:18:07,624 INFO stopped: wm-meetings-interface-server (exit status 0)
+2018-03-27 18:18:07,626 INFO stopped: django-channel-worker (exit status 0)
+2018-03-27 18:18:08,637 INFO spawned: 'wm-meetings-interface-server' with pid 1647
+2018-03-27 18:18:08,640 INFO spawned: 'django-channel-worker' with pid 1648
+2018-03-27 18:18:09,643 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-27 18:18:09,643 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:57:44,412 INFO exited: wm-meetings-interface-server (terminated by SIGHUP; not expected)
+2018-03-28 01:57:44,984 INFO exited: django-channel-worker (terminated by SIGHUP; not expected)
+2018-03-28 01:57:44,984 WARN received SIGHUP indicating restart request
+2018-03-28 01:57:45,834 INFO RPC interface 'supervisor' initialized
+2018-03-28 01:57:45,834 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-03-28 01:57:45,834 INFO supervisord started with pid 6720
+2018-03-28 01:57:46,875 INFO spawned: 'wm-meetings-interface-server' with pid 4126
+2018-03-28 01:57:46,878 INFO spawned: 'django-channel-worker' with pid 4127
+2018-03-28 01:57:47,879 INFO success: wm-meetings-interface-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:57:48,075 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:58:28,725 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:58:29,728 INFO spawned: 'django-channel-worker' with pid 4561
+2018-03-28 01:58:30,730 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:58:32,057 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:58:33,060 INFO spawned: 'django-channel-worker' with pid 4583
+2018-03-28 01:58:34,062 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:58:35,093 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:58:36,096 INFO spawned: 'django-channel-worker' with pid 4602
+2018-03-28 01:58:37,096 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:58:38,106 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:58:39,111 INFO spawned: 'django-channel-worker' with pid 4620
+2018-03-28 01:58:40,112 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:58:41,303 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:58:42,306 INFO spawned: 'django-channel-worker' with pid 4641
+2018-03-28 01:58:43,307 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:58:44,440 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:58:45,444 INFO spawned: 'django-channel-worker' with pid 4662
+2018-03-28 01:58:46,445 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:58:47,649 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:58:48,652 INFO spawned: 'django-channel-worker' with pid 4683
+2018-03-28 01:58:49,652 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:58:50,716 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:58:51,719 INFO spawned: 'django-channel-worker' with pid 4704
+2018-03-28 01:58:52,720 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:58:53,739 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:58:54,742 INFO spawned: 'django-channel-worker' with pid 4727
+2018-03-28 01:58:55,744 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:58:56,862 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:58:57,865 INFO spawned: 'django-channel-worker' with pid 4748
+2018-03-28 01:58:58,867 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:58:59,918 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:59:00,921 INFO spawned: 'django-channel-worker' with pid 4767
+2018-03-28 01:59:01,923 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:59:02,938 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:59:03,941 INFO spawned: 'django-channel-worker' with pid 4788
+2018-03-28 01:59:04,942 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:59:05,952 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:59:06,955 INFO spawned: 'django-channel-worker' with pid 4808
+2018-03-28 01:59:07,956 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:59:08,931 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:59:09,934 INFO spawned: 'django-channel-worker' with pid 4826
+2018-03-28 01:59:10,935 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-03-28 01:59:11,924 INFO exited: django-channel-worker (exit status 1; not expected)
+2018-03-28 01:59:12,926 INFO spawned: 'django-channel-worker' with pid 4847
+2018-03-28 01:59:13,927 INFO success: django-channel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

@@ -1,0 +1,16 @@
+[2016-09-07 10:40:47,172] INFO msg ip: 127.0.0.1, port: 33880
+[2016-09-07 10:40:52,969] INFO msg ip: 127.0.0.1, port: 33883
+[2016-09-07 10:41:13,153] INFO msg ip: 127.0.0.1, port: 33892
+[2016-09-07 10:59:24,732] INFO msg ip: 127.0.0.1, port: 34396
+[2016-09-07 11:00:05,829] INFO msg ip: 127.0.0.1, port: 34431
+[2016-09-07 11:00:16,839] INFO msg ip: 127.0.0.1, port: 34438
+[2016-09-07 11:00:28,251] INFO msg ip: 127.0.0.1, port: 34447
+[2016-09-07 11:26:58,209] DEBUG adding 1.6d082500-09f1-4cbb-91cf-8ae26f746585
+[2016-09-07 11:26:58,213] DEBUG message from: <channels.message.Message object at 0x7f0d71b6e390>, room: 1.6d082500-09f1-4cbb-91cf-8ae26f746585
+[2016-09-07 11:28:34,250] DEBUG disconnecting websocket.send!vsHGqlvWWDRJ-room-1.6d082500-09f1-4cbb-91cf-8ae26f746585
+[2016-09-07 11:28:37,961] DEBUG adding 1.6d082500-09f1-4cbb-91cf-8ae26f746585
+[2016-09-07 11:28:37,964] DEBUG message from: <channels.message.Message object at 0x7f0d71c37890>, room: 1.6d082500-09f1-4cbb-91cf-8ae26f746585
+[2016-09-07 11:28:42,373] DEBUG websocket.send!ibABZkKRlRBK-room-1.6d082500-09f1-4cbb-91cf-8ae26f746585: broadcasting: {"type":"JOINED-ROOM","name":1122663}
+[2016-09-07 11:30:28,290] DEBUG disconnecting websocket.send!ibABZkKRlRBK-room-1.6d082500-09f1-4cbb-91cf-8ae26f746585
+[2016-09-07 13:41:43,450] INFO msg ip: 127.0.0.1, port: 37813
+[2016-09-07 13:44:07,358] INFO msg ip: 127.0.0.1, port: 37862
